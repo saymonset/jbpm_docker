@@ -1,0 +1,39 @@
+#Start
+#Linux: $ ./standalone.sh &
+#
+#Windows: > standalone.bat
+#
+#Stop
+#Linux: $ ./jboss-cli.sh --connect command=:shutdown
+#
+#Windows: > jboss-cli.bat --connect command=:shutdown
+#
+#Restart
+#Linux: $ ./jboss-cli.sh --connect command=:reload
+#
+#Windows: > jboss-cli.bat --connect command=:reload
+#- ./repo/wb_git:/opt/jboss/wildfly/bin/.niogit:Z
+version: '3'
+services:
+  jbpm:
+    image: jboss/jbpm-server-full
+    environment:
+      JBPM_DB_DRIVER: mysql
+      JBPM_DB_HOST: 172.16.238.11
+      JBPM_DB_PORT: 3306
+      JBPM_DB_NAME: jbpm
+      JBPM_DB_USER: root
+      JBPM_DB_PASSWORD: 123456
+      KIE_SERVER_ID: saymon_jbpm_id
+    ports:
+    - 8080:8080
+    - 8001:8001
+    volumes:
+    - ./repo:/repo
+    - ./repo/wb_git:/opt/jboss/wildfly/bin/.niogit:Z
+networks:
+  default:
+    external:
+      name: survey-all_app_net
+
+
