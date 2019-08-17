@@ -13,10 +13,13 @@
 #
 #Windows: > jboss-cli.bat --connect command=:reload
 #- ./repo/wb_git:/opt/jboss/wildfly/bin/.niogit:Z
+
 version: '3'
 services:
   jbpm:
+  #   image: jboss/jbpm-server-full:7.25.0.Final
     image: jboss/jbpm-server-full
+    #build: .
     environment:
       JBPM_DB_DRIVER: mysql
       JBPM_DB_HOST: 172.16.238.11
@@ -26,11 +29,12 @@ services:
       JBPM_DB_PASSWORD: 123456
       KIE_SERVER_ID: saymon_jbpm_id
     ports:
-    - 8080:8080
+    - 8180:8080
     - 8001:8001
     volumes:
     - ./repo:/repo
     - ./repo/wb_git:/opt/jboss/wildfly/bin/.niogit:Z
+    - ./repo/jboss:/opt/jboss/.m2/repository
 networks:
   default:
     external:
