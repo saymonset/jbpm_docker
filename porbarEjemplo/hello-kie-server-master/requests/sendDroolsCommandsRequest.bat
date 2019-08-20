@@ -1,0 +1,1 @@
+curl -X POST -H "X-KIE-ContentType: JSON" -H "Content-type: application/json" -u admin:admin --data @droolsCommands.json http://localhost:8080/kie-server/services/rest/server/containers/instances/hello 

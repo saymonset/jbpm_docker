@@ -1,62 +1,39 @@
-docker-compose -f jbpm-full-mysql.yml up --build -d
-#Start
-#Linux: $ ./standalone.sh &
-#
-#Windows: > standalone.bat
-#
-#Stop
-#Linux: $ ./jboss-cli.sh --connect command=:shutdown
-#
-#Windows: > jboss-cli.bat --connect command=:shutdown
-#
-#Restart
-#Linux: $ ./jboss-cli.sh --connect command=:reload
-#
-#Windows: > jboss-cli.bat --connect command=:reload
+ Download jbpm-6.4.0.Final-installer-full
+
+ https://download.jboss.org/jbpm/release/6.4.0.Final/
+
+ 
+Actualizar eclipse con
+    https://download.jboss.org/jbpm/release/6.4.0.Final/updatesite/
+
+1 -) Descompilar jbpm-6.4.0.Final-installer-full
+
+2 -) cd jbpm-installer
 
 
-#shutdown contenedor
-docker-compose -f jbpm-full-mysql.yml down
+2.1 -) beyondcompare entre el  de git hub y el  instalador y copiar los archivos
 
-#arrancar contenedor
-docker-compose -f jbpm-full-mysql.yml up --build -d
+3 -) ant install.demo.noeclipse
 
-#ver los logs
-docker logs -f jbpm_docker_jbpm_1
+4 -) beyondcompare entre el wildfly de git hub y el wildfly del instalador y copiar los archivos
 
-docker exec -it survey-all_mysql_ecolo_container_1 bash
-mysql -uroot -p123456
-create database jbpm;
+5 -) Crear bd JBPM_LEARN con usurio sa y password Ci10169949.
+ 
+6 -) Correr  saymnjbpm.bat qe esta en wildfly_home/bin
 
-http://localhost:8080/kie-server/services/rest/server
+   Tiene estos parametros
+   
+     #Debe estr en un sola linea
+     standalone.bat -c standalone-full.xml -Dorg.kie.server.user=kieserver -Dorg.kie.server.pwd=kieserver -Dorg.kie.server.id=saymon-id-kie-server -Dorg.kie.server.location=http://localhost:8080/kie-server/services/rest/server -Dorg.kie.server.user=kieserver -Dorg.kie.server.controller.user=kieserver -Dorg.kie.server.controller.pwd=kieserver -Dorg.kie.server.persistence.ds=java:jboss/datasources/wissenDS -Dorg.kie.demo=false -Dorg.kie.server.persistence.dialect=org.hibernate.dialect.SQLServer2008Dialect -b 0.0.0.0
 
-http://localhost:8080/business-central/kie-wb.jsp
+     
+     #.... Probar la instalacion
 
-#Search a word into folder
-#grep -R "saymon1_1.0.0-SNAPSHOT" wildfly/
-#Fix Error Caused by: org.eclipse.jgit.errors.MissingObjectException: Missing unknown afd55ee0e6e95dbbc7178e60b4f95221de5b1caf
-#Borrar lo que esta dentro de repo/jboss y repo/wb_git
+     http://localhost:8080/kie-server/services/rest/server
+         usuario = admin, password = admin
 
+http://localhost:8080/kie-server/services/rest/server/queries/processes/definitions
 
-#remove all volume
-#docker volume ls -qf dangling=true | xargs -r docker volume rm
+7 -) Ir a la carpeta    porbarEjemplo
 
-#Borra las imagenes none
-#docker images | grep none | awk '{ print $3; }' | xargs docker rmi
-#Borra todos los volumenes
-docker volume prune
-
-#Search a word into folder
-grep -R "saymon1_1.0.0-SNAPSHOT" wildfly/
-grep -R "com.myspace" .
-
-BUGS FIX
-Starting jbpm_docker_jbpm_1 ... error
-
-ERROR: for jbpm_docker_jbpm_1  Cannot start service jbpm: network 3a5289f1d8b2db67a358849850fee69ef420aced85eb4231927bfed71298a39e not found
-
-ERROR: for jbpm  Cannot start service jbpm: network 3a5289f1d8b2db67a358849850fee69ef420aced85eb4231927bfed71298a39e not found
-ERROR: Encountered errors while bringing up the project.
-
-docker-compose -f jbpm-full-mysql.yml down
-docker-compose -f jbpm-full-mysql.yml up --build -d
+y leer el readme.txt para probarlo
