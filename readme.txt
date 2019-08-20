@@ -14,6 +14,7 @@ docker-compose -f jbpm-full-mysql.yml up --build -d
 #
 #Windows: > jboss-cli.bat --connect command=:reload
 
+
 #shutdown contenedor
 docker-compose -f jbpm-full-mysql.yml down
 
@@ -30,6 +31,11 @@ create database jbpm;
 http://localhost:8080/kie-server/services/rest/server
 
 http://localhost:8080/business-central/kie-wb.jsp
+
+#Search a word into folder
+#grep -R "saymon1_1.0.0-SNAPSHOT" wildfly/
+#Fix Error Caused by: org.eclipse.jgit.errors.MissingObjectException: Missing unknown afd55ee0e6e95dbbc7178e60b4f95221de5b1caf
+#Borrar lo que esta dentro de repo/jboss y repo/wb_git
 
 
 #remove all volume
