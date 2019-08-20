@@ -23,20 +23,27 @@ import org.springframework.context.annotation.Configuration;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+import org.springframework.beans.factory.annotation.Value;
 /**
  * Created by simon on 13/08/19.
  */
 @Configuration
 public class Jbpm {
+    @Value("${baseURI}")
+    private String baseURI;
+    @Value("${jbpm.user}")
+    private String user;
+    @Value("${jbpm.password}")
+    private String password;
     // REST API base URL, credentials, and marshalling format
-    private static final String URL = "http://localhost:8180/kie-server/services/rest/server";
-    private static final String USER = "salaboy";
-    private static final String PASSWORD = "salaboy";
+    private     String URL =  "http://localhost:8180/kie-server/services/rest/server";
+    private     String USER = "salaboy";
+    private     String PASSWORD = "salaboy";
 
 
-    private static final MarshallingFormat FORMAT = MarshallingFormat.JSON;
+    private     MarshallingFormat FORMAT = MarshallingFormat.JSON;
 
-    private static KieServicesConfiguration conf;
+    private   KieServicesConfiguration conf;
 
     // KIE client for common operations
     private   KieServicesClient kieServicesClient;
