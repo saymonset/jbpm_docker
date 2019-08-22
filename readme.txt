@@ -1,4 +1,13 @@
+#Bajar la aplicacion
+docker-compose -f jbpm-full-mysql.yml down
+#Arrancar la aplicacion
 docker-compose -f jbpm-full-mysql.yml up --build -d
+
+
+#Entrar en wildfly internamente
+docker exec -it jbpm_docker_jbpm_1 bash
+
+#levantar y shutdown wildfly
 #Start
 #Linux: $ ./standalone.sh &
 #

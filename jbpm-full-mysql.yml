@@ -1,4 +1,7 @@
 #Start
+#run  mysql first
+#docker-compose -f jbpm-full-mysql.yml up --build -d
+
 #Linux: $ ./standalone.sh &
 #
 #Windows: > standalone.bat
@@ -19,14 +22,15 @@ services:
   jbpm:
   #   image: jboss/jbpm-server-full:7.25.0.Final
     image: jboss/jbpm-server-full
+    container_name: jbpm_connect_mysql
     #build: .
     environment:
       JBPM_DB_DRIVER: mysql
       JBPM_DB_HOST: 172.16.238.11
       JBPM_DB_PORT: 3306
       JBPM_DB_NAME: jbpm
-      JBPM_DB_USER: root
-      JBPM_DB_PASSWORD: 123456
+      JBPM_DB_USER: jbpm
+      JBPM_DB_PASSWORD: jbpm
       KIE_SERVER_ID: saymon_jbpm_id
     ports:
     - 8180:8080
@@ -35,31 +39,9 @@ services:
     - ./repo:/repo
     - ./repo/wb_git:/opt/jboss/wildfly/bin/.niogit:Z
     - ./repo/jboss:/opt/jboss/.m2/repository
-    depends_on:
-          - mysql_ecolo_container
-  mysql_ecolo_container:
-        image: mariadb:5.5
-        restart: always
-        ports:
-        - "3307:3306"
-        environment:
-                MYSQL_ROOT_PASSWORD: "123456"
-                MYSQL_DATABASE: "flowable"
-                MYSQL_USER: "ecological"
-                MYSQL_PASSWORD: "ecological"
-        volumes:
-        - mysql-datavolume:/var/lib/mysql
-        networks:
-         app_net:
-          ipv4_address: 172.16.238.11
-volumes:
-  mysql-datavolume:
 networks:
-  app_net:
-      ipam:
-        driver: default
-        config:
-          - subnet: "172.16.238.0/24"
-          - subnet: "2001:3984:3989::/64"
+  default:
+    external:
+      name: jbpm_docker_app_net
 
 
