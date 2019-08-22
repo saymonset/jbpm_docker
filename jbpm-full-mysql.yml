@@ -1,6 +1,9 @@
 #Start
 #run  mysql first
 #docker-compose -f jbpm-full-mysql.yml up --build -d
+#docker-compose -f jbpm-full-mysql.yml down
+#Bajar mysql
+#docker-compose -f mysql.yml down
 
 #Linux: $ ./standalone.sh &
 #

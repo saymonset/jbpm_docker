@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c141d0aa-6632-4a68-bb54-b621416d0096" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jbpm-full-mysql (copy)withEcologicalpaper.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-4310947aefb21d47e3e4e0553589f1c73305f76a.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-4310947aefb21d47e3e4e0553589f1c73305f76a.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-4310947aefb21d47e3e4e0553589f1c73305f76a.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-93eecb3e95e15fe92d196c8523d2eba23059f192.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-93eecb3e95e15fe92d196c8523d2eba23059f192.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-93eecb3e95e15fe92d196c8523d2eba23059f192.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-aec80d3d3d586222c38e9175b87ef57cef2e86e9.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-aec80d3d3d586222c38e9175b87ef57cef2e86e9.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-aec80d3d3d586222c38e9175b87ef57cef2e86e9.pack" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/clientjbpm/src/main/resources/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jbpm-full-mysql.yml" afterPath="$PROJECT_DIR$/jbpm-full-mysql.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/refs/heads/master" afterPath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/refs/heads/master" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,8 +37,8 @@
       <file leaf-file-name="jbpm-full-mysql.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="916">
-              <caret line="44" column="31" lean-forward="false" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="31" />
+            <state relative-caret-position="204">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -647,7 +633,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30844000" />
+    <option name="totallyTimeSpent" value="31164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="162" y="35" width="3678" height="2125" extended-state="6" />
@@ -964,8 +950,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="916">
-          <caret line="44" column="31" lean-forward="false" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="31" />
+        <state relative-caret-position="204">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
