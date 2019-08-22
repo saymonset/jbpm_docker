@@ -16,6 +16,8 @@ import java.util.Map;
 import javax.inject.Inject;
 /**
  * Created by simon on 16/08/19.
+ *
+ * Example http://localhost:8445/q/all
  */
 @RestController
 @RequestMapping("/q")

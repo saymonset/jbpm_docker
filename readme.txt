@@ -1,3 +1,6 @@
+
+#Arrancar mysql first
+#docker-compose -f mysql.yml up --build -d
 #Bajar la aplicacion
 docker-compose -f jbpm-full-mysql.yml down
 #Arrancar la aplicacion
