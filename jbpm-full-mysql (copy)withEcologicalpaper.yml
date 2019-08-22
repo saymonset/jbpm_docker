@@ -35,31 +35,9 @@ services:
     - ./repo:/repo
     - ./repo/wb_git:/opt/jboss/wildfly/bin/.niogit:Z
     - ./repo/jboss:/opt/jboss/.m2/repository
-    depends_on:
-          - mysql_ecolo_container
-  mysql_ecolo_container:
-        image: mariadb:5.5
-        restart: always
-        ports:
-        - "3307:3306"
-        environment:
-                MYSQL_ROOT_PASSWORD: "123456"
-                MYSQL_DATABASE: "flowable"
-                MYSQL_USER: "ecological"
-                MYSQL_PASSWORD: "ecological"
-        volumes:
-        - mysql-datavolume:/var/lib/mysql
-        networks:
-         app_net:
-          ipv4_address: 172.16.238.11
-volumes:
-  mysql-datavolume:
 networks:
-  app_net:
-      ipam:
-        driver: default
-        config:
-          - subnet: "172.16.238.0/24"
-          - subnet: "2001:3984:3989::/64"
+  default:
+    external:
+      name: survey-all_app_net
 
 
