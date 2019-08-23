@@ -14,6 +14,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import javax.inject.Inject;
+import org.kie.server.api.model.ReleaseId;
 /**
  * Created by simon on 16/08/19.
  *
@@ -27,12 +28,47 @@ public class Test {
     private KieServicesClient kieServicesClient;
     @Inject
     private ProcessServicesClient processServicesClient;
+
     @RequestMapping(value = "/all",method = RequestMethod.GET)
     public ResponseEntity<?> procesar() {
         disposeAndCreateContainer();
         return new ResponseEntity<>("Hi ", HttpStatus.CREATED);
     }
 
+    @RequestMapping(value = "/newDeploy",method = RequestMethod.GET)
+    public ResponseEntity<?> deploy() {
+        newDeploy();
+        return new ResponseEntity<>("new deploy.. ", HttpStatus.CREATED);
+    }
+
+    @RequestMapping(value = "/newInstance",method = RequestMethod.GET)
+    public ResponseEntity<?> newInstanciaMethod() {
+        newInstancia();
+        return new ResponseEntity<>("new instance.. ", HttpStatus.CREATED);
+    }
+
+
+    public  void newDeploy() {
+        /**
+         * <groupId>uft</groupId>
+         <artifactId>chapter02</artifactId>
+         <version>1.0</version>
+         * */
+        String containerId = "saymon_new_container";
+        System.out.println("\t######### Deploying container " + containerId);
+        KieContainerResource resource = new KieContainerResource(containerId, new ReleaseId("uft", "chapter02", "1.0"));
+        kieServicesClient.createContainer(containerId, resource);
+    }
+
+    public void newInstancia(){
+        Map<String, Object> variables = new HashMap<>();
+        Long processInstanceId = null;
+                processInstanceId = processServicesClient.startProcess("saymon_new_container",
+                "myDesignedProcess", variables);
+
+        System.out.println("processInstanceId = " + processInstanceId);
+        //myDesignedProcess
+    }
 
     public  void disposeAndCreateContainer() {
         System.out.println("== Disposing and creating containers ==");
