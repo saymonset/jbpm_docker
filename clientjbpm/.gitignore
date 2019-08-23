@@ -1,9 +1,13 @@
 HELP.md
 .gradle
 build/
+classes/
+clientjbpm/build/
+clientjbpm/classes/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+repo/
 
 ### STS ###
 .apt_generated
