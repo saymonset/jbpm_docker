@@ -63,8 +63,8 @@ public class Test {
     public void newInstancia(){
         Map<String, Object> variables = new HashMap<>();
         Long processInstanceId = null;
-                processInstanceId = processServicesClient.startProcess("saymon_new_container",
-                "myDesignedProcess", variables);
+                processInstanceId = processServicesClient.startProcess("saymon_1.0.0-SNAPSHOT",
+                "saymon.sencillo", variables);
 
         System.out.println("processInstanceId = " + processInstanceId);
         //myDesignedProcess
