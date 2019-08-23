@@ -32,8 +32,8 @@ services:
       JBPM_DB_HOST: 172.16.238.11
       JBPM_DB_PORT: 3306
       JBPM_DB_NAME: jbpm
-      JBPM_DB_USER: jbpm
-      JBPM_DB_PASSWORD: jbpm
+      JBPM_DB_USER: root
+      JBPM_DB_PASSWORD: 123456
       KIE_SERVER_ID: saymon_jbpm_id
     ports:
     - 8180:8080

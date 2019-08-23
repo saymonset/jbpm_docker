@@ -69,10 +69,10 @@ public class Test {
         Map<String, Object> variables = new HashMap<>();
         Long processInstanceId = null;
 
-        processInstanceId = processServicesClient.startProcess("saymonasset_1.0.0-SNAPSHOT",
-                "saymonasset.SaymonBPMN", variables);
-
-        System.out.println("processInstanceId = " + processInstanceId);
+//        processInstanceId = processServicesClient.startProcess("saymonasset_1.0.0-SNAPSHOT",
+//                "saymonasset.SaymonBPMN", variables);
+//
+//        System.out.println("processInstanceId = " + processInstanceId);
 
 //        ProcessInstance processInstance = queryServicesClient.findProcessInstanceById(processInstanceId);
 //        TaskSummary task = processInstance.getActiveUserTasks().getItems().get(0);

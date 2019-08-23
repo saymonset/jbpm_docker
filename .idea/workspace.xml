@@ -2,7 +2,627 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c141d0aa-6632-4a68-bb54-b621416d0096" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/evaluation-1.0.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/javax/activation/activation/1.1.1/activation-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/junit/junit/4.12/junit-4.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-compiler/7.24.0.Final/drools-compiler-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-core/7.24.0.Final/drools-core-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/1.0.1.Final/jboss-jaxb-api_2.3_spec-1.0.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api/7.24.0.Final/kie-api-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-internal/7.24.0.Final/kie-internal-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-commons/7.24.0.Final/kie-soup-commons-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-support/7.24.0.Final/kie-soup-maven-support-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-api/7.24.0.Final/kie-soup-project-datamodel-api-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-commons/7.24.0.Final/kie-soup-project-datamodel-commons-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.4.4.Final/mvel2-2.4.4.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-core/7.24.0.Final/optaplanner-core-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-common/7.24.0.Final/optaplanner-persistence-common-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-jaxb/7.24.0.Final/optaplanner-persistence-jaxb-7.24.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/reflections/reflections/0.9.11/reflections-0.9.11.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-05e0b91d9ebf6f1bc3cdd3e00d670da8b6722baa.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-05e0b91d9ebf6f1bc3cdd3e00d670da8b6722baa.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-05e0b91d9ebf6f1bc3cdd3e00d670da8b6722baa.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/1d/1784cec9fcca72a972de1b3c39772d07450ac7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/22/0c100ec6db73de96ffbb123c98016384d36bad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/2e/d499669b494e572d892c6027bd7edaa563c062" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/3b/9e4e83f15ed717a396ba109a14ce1f7bec129e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/4f/72346ca5c2ebf852c2e0ad0e00bfe084ad8851" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/54/661a7ee0baaf100b089cfc5735f48efed14941" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/5d/387cfb0256eda38e3f224b06546c3eb02b1e29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/62/a794ed9d17c64286df80988aefa8055408c383" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/6d/c7732814b309a03216a10b00b810ab78d00f7e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/73/294f7431b95eb82a75110a462a488a8e76f041" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/81/df4db4e1c606436986797a2331fb73a14772c3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/8a/8f38d90984fd62084eec7a33157ebcc9d2d148" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/8d/b42baebcc189bc7aa92b5de9d411d88e4225a9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/9f/d6072157aa0bdddb3b9763352b927a92b972ec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/fa/29264aba76478769dcba365b5e40ff67c08219" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/pack/pack-e703bbfa89ee4a433ae72001c8a1412ae779532f.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/pack/pack-e703bbfa89ee4a433ae72001c8a1412ae779532f.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/pack/pack-e703bbfa89ee4a433ae72001c8a1412ae779532f.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/pack/pack-5169e03953b41aa54e3e89f205708565821a7f7b.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/pack/pack-5169e03953b41aa54e3e89f205708565821a7f7b.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/pack/pack-5169e03953b41aa54e3e89f205708565821a7f7b.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/pack/pack-0b668d0e8c3f2307006d48fde6d4da8eed4ec351.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/pack/pack-0b668d0e8c3f2307006d48fde6d4da8eed4ec351.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/pack/pack-0b668d0e8c3f2307006d48fde6d4da8eed4ec351.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/objects/pack/pack-a76b65a7c70e26cbfa1fd474ede42912f9df8a24.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/objects/pack/pack-a76b65a7c70e26cbfa1fd474ede42912f9df8a24.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/objects/pack/pack-a76b65a7c70e26cbfa1fd474ede42912f9df8a24.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/pack/pack-0067aba934512e491a36a7320b73599cc878978e.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/pack/pack-0067aba934512e491a36a7320b73599cc878978e.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/pack/pack-0067aba934512e491a36a7320b73599cc878978e.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/pack/pack-82b38f090aece0b59fc763fe20ada5fc917716e3.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/pack/pack-82b38f090aece0b59fc763fe20ada5fc917716e3.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/pack/pack-82b38f090aece0b59fc763fe20ada5fc917716e3.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/pack/pack-0b2cb6d1eb799f6dbd46fde29654f6d1c88b6e11.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/pack/pack-0b2cb6d1eb799f6dbd46fde29654f6d1c88b6e11.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/pack/pack-0b2cb6d1eb799f6dbd46fde29654f6d1c88b6e11.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/pack/pack-25f1993c4e669d5d16e91eaf0baacee94be4774f.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/pack/pack-25f1993c4e669d5d16e91eaf0baacee94be4774f.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/pack/pack-25f1993c4e669d5d16e91eaf0baacee94be4774f.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/68/fb95b52fbdd35f77e6912da4c65eb2aade58fc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-94d175669f970559fe1ce899be391f03e89f616c.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-94d175669f970559fe1ce899be391f03e89f616c.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-94d175669f970559fe1ce899be391f03e89f616c.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-bf30a2e30bc78a7b2b69268bd8971947346adfa1.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-bf30a2e30bc78a7b2b69268bd8971947346adfa1.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-bf30a2e30bc78a7b2b69268bd8971947346adfa1.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-ec6f3b661db9a6751c863e666fadd817cd61006f.bitmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-ec6f3b661db9a6751c863e666fadd817cd61006f.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-ec6f3b661db9a6751c863e666fadd817cd61006f.pack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/code/findbugs/jsr305/1.3.9/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_annotations/2.1.3/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_parent/2.1.3/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_parent/2.1.3/error_prone_parent-2.1.3.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_parent/2.1.3/error_prone_parent-2.1.3.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/google/1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/google/1/google-1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/google/1/google-1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/20.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/20.0/guava-parent-20.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/20.0/guava-parent-20.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/25.0-jre/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/25.0-jre/guava-parent-25.0-jre.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/25.0-jre/guava-parent-25.0-jre.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/20.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/20.0/guava-20.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/20.0/guava-20.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/25.0-jre/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/25.0-jre/guava-25.0-jre.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/25.0-jre/guava-25.0-jre.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/j2objc/j2objc-annotations/1.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-java/3.6.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-parent/3.6.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-parent/3.6.1/protobuf-parent-3.6.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-parent/3.6.1/protobuf-parent-3.6.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-bom-ext/2.3.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-bom-ext/2.3.0/jaxb-bom-ext-2.3.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-bom-ext/2.3.0/jaxb-bom-ext-2.3.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-core/2.3.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-impl/2.3.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-bundles/2.3.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-bundles/2.3.0/jaxb-bundles-2.3.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-bundles/2.3.0/jaxb-bundles-2.3.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-parent/2.3.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-parent/2.3.0/jaxb-parent-2.3.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-parent/2.3.0/jaxb-parent-2.3.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.10/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.11.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.11.1/xstream-parent-1.4.11.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.11.1/xstream-parent-1.4.11.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.10/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.11.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.11.1/xstream-1.4.11.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.11.1/xstream-1.4.11.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/commons-codec/commons-codec/1.10/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/commons-codec/commons-codec/1.10/commons-codec-1.10.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/commons-codec/commons-codec/1.10/commons-codec-1.10.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/commons-codec/commons-codec/1.10/commons-codec-1.10.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/evaluation-1.0.0-SNAPSHOT.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/maven-metadata-local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/resolver-status.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/maven-metadata-global-m2-repo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/maven-metadata-local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/resolver-status.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/bom/2.4.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/bom/2.4.0.Final/bom-2.4.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/bom/2.4.0.Final/bom-2.4.0.Final.pom.lastUpdated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/bom/2.4.0.Final/bom-2.4.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/parent/11/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/parent/11/parent-11.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/parent/11/parent-11.pom.lastUpdated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/parent/11/parent-11.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/javax/activation/activation/1.1.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/javax/activation/activation/1.1.1/activation-1.1.1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/javax/activation/activation/1.1.1/activation-1.1.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/javax/activation/activation/1.1.1/activation-1.1.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/junit/junit/4.12/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/junit/junit/4.12/junit-4.12.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/junit/junit/4.12/junit-4.12.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/junit/junit/4.12/junit-4.12.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/net/java/jvnet-parent/5/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/net/java/jvnet-parent/5/jvnet-parent-5.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/net/java/jvnet-parent/5/jvnet-parent-5.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-master/3.5.2/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-master/3.5.2/antlr-master-3.5.2.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-master/3.5.2/antlr-master-3.5.2.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-runtime/3.5.2/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/13/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/13/apache-13.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/13/apache-13.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/15/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/15/apache-15.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/15/apache-15.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/19/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/19/apache-19.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/19/apache-19.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-lang3/3.8.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-math3/3.4.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/34/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/34/commons-parent-34.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/34/commons-parent-34.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/35/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/35/commons-parent-35.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/35/commons-parent-35.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/47/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/47/commons-parent-47.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/47/commons-parent-47.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/checkerframework/checker-compat-qual/2.0.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/codehaus-parent/4/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-annotations/1.14/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-parent/1.14/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-parent/1.14/animal-sniffer-parent-1.14.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-parent/1.14/animal-sniffer-parent-1.14.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/mojo-parent/34/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/mojo-parent/34/mojo-parent-34.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/mojo-parent/34/mojo-parent-34.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-bom/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-bom/7.24.0.Final/drools-bom-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-bom/7.24.0.Final/drools-bom-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-compiler/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-compiler/7.24.0.Final/drools-compiler-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-compiler/7.24.0.Final/drools-compiler-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-compiler/7.24.0.Final/drools-compiler-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-core/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-core/7.24.0.Final/drools-core-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-core/7.24.0.Final/drools-core-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-core/7.24.0.Final/drools-core-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools/7.24.0.Final/drools-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools/7.24.0.Final/drools-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/eclipse/jdt/core/compiler/ecj/4.6.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/glassfish/jaxb/jaxb-bom/2.3.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/glassfish/jaxb/jaxb-bom/2.3.0/jaxb-bom-2.3.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/glassfish/jaxb/jaxb-bom/2.3.0/jaxb-bom-2.3.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-core/1.3/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-parent/1.3/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/javassist/javassist/3.21.0-GA/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/arquillian-bom/1.1.13.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/arquillian-bom/1.1.13.Final/arquillian-bom-1.1.13.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/arquillian-bom/1.1.13.Final/arquillian-bom-1.1.13.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/selenium/selenium-bom/3.13.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/selenium/selenium-bom/3.13.0/selenium-bom-3.13.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/selenium/selenium-bom/3.13.0/selenium-bom-3.13.0.pom.lastUpdated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/selenium/selenium-bom/3.13.0/selenium-bom-3.13.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/errai/bom/errai-internal-bom/4.6.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/errai/bom/errai-internal-bom/4.6.0.Final/errai-internal-bom-4.6.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/errai/bom/errai-internal-bom/4.6.0.Final/errai-internal-bom-4.6.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/25/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/25/jboss-parent-25.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/25/jboss-parent-25.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/31/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/31/jboss-parent-31.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/31/jboss-parent-31.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-10/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-10/shrinkwrap-descriptors-bom-2.0.0-alpha-10.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-10/shrinkwrap-descriptors-bom-2.0.0-alpha-10.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/shrinkwrap-descriptors-bom-2.0.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/shrinkwrap-descriptors-bom-2.0.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/shrinkwrap-resolver-bom-2.2.0.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/shrinkwrap-resolver-bom-2.2.0.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.4/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.4/shrinkwrap-resolver-bom-2.2.4.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.4/shrinkwrap-resolver-bom-2.2.4.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/shrinkwrap-bom-1.2.6.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/shrinkwrap-bom-1.2.6.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/1.0.1.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/1.0.1.Final/jboss-jaxb-api_2.3_spec-1.0.1.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/1.0.1.Final/jboss-jaxb-api_2.3_spec-1.0.1.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/1.0.1.Final/jboss-jaxb-api_2.3_spec-1.0.1.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jbpm/jbpm-bom/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jbpm/jbpm-bom/7.24.0.Final/jbpm-bom-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/jbpm/jbpm-bom/7.24.0.Final/jbpm-bom-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api-parent/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api-parent/7.24.0.Final/kie-api-parent-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api-parent/7.24.0.Final/kie-api-parent-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api/7.24.0.Final/kie-api-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api/7.24.0.Final/kie-api-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api/7.24.0.Final/kie-api-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-bom/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-bom/7.24.0.Final/kie-bom-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-bom/7.24.0.Final/kie-bom-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-dmn-bom/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-dmn-bom/7.24.0.Final/kie-dmn-bom-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-dmn-bom/7.24.0.Final/kie-dmn-bom-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-internal/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-internal/7.24.0.Final/kie-internal-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-internal/7.24.0.Final/kie-internal-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-internal/7.24.0.Final/kie-internal-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-parent/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-parent/7.24.0.Final/kie-parent-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-parent/7.24.0.Final/kie-parent-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-user-bom-parent/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-user-bom-parent/7.24.0.Final/kie-user-bom-parent-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-user-bom-parent/7.24.0.Final/kie-user-bom-parent-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-bom/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-bom/7.24.0.Final/kie-soup-bom-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-bom/7.24.0.Final/kie-soup-bom-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-commons/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-commons/7.24.0.Final/kie-soup-commons-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-commons/7.24.0.Final/kie-soup-commons-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-commons/7.24.0.Final/kie-soup-commons-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-support/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-support/7.24.0.Final/kie-soup-maven-support-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-support/7.24.0.Final/kie-soup-maven-support-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-support/7.24.0.Final/kie-soup-maven-support-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-utils/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-utils/7.24.0.Final/kie-soup-maven-utils-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-utils/7.24.0.Final/kie-soup-maven-utils-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-parent/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-parent/7.24.0.Final/kie-soup-parent-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-parent/7.24.0.Final/kie-soup-parent-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-api/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-api/7.24.0.Final/kie-soup-project-datamodel-api-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-api/7.24.0.Final/kie-soup-project-datamodel-api-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-api/7.24.0.Final/kie-soup-project-datamodel-api-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-commons/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-commons/7.24.0.Final/kie-soup-project-datamodel-commons-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-commons/7.24.0.Final/kie-soup-project-datamodel-commons-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-commons/7.24.0.Final/kie-soup-project-datamodel-commons-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel/7.24.0.Final/kie-soup-project-datamodel-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel/7.24.0.Final/kie-soup-project-datamodel-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/uberfire/kie-uberfire-extensions-bom/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/uberfire/kie-uberfire-extensions-bom/7.24.0.Final/kie-uberfire-extensions-bom-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/uberfire/kie-uberfire-extensions-bom/7.24.0.Final/kie-uberfire-extensions-bom-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.3.2.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.3.2.Final/mvel2-2.3.2.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.3.2.Final/mvel2-2.3.2.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.4.4.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.4.4.Final/mvel2-2.4.4.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.4.4.Final/mvel2-2.4.4.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.4.4.Final/mvel2-2.4.4.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-bom/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-bom/7.24.0.Final/optaplanner-bom-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-bom/7.24.0.Final/optaplanner-bom-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-core/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-core/7.24.0.Final/optaplanner-core-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-core/7.24.0.Final/optaplanner-core-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-core/7.24.0.Final/optaplanner-core-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-common/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-common/7.24.0.Final/optaplanner-persistence-common-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-common/7.24.0.Final/optaplanner-persistence-common-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-common/7.24.0.Final/optaplanner-persistence-common-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-jaxb/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-jaxb/7.24.0.Final/optaplanner-persistence-jaxb-7.24.0.Final.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-jaxb/7.24.0.Final/optaplanner-persistence-jaxb-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-jaxb/7.24.0.Final/optaplanner-persistence-jaxb-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence/7.24.0.Final/optaplanner-persistence-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence/7.24.0.Final/optaplanner-persistence-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner/7.24.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner/7.24.0.Final/optaplanner-7.24.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner/7.24.0.Final/optaplanner-7.24.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/reflections/reflections/0.9.11/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/reflections/reflections/0.9.11/reflections-0.9.11.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/reflections/reflections/0.9.11/reflections-0.9.11.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/reflections/reflections/0.9.11/reflections-0.9.11.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-api/1.7.26/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-parent/1.7.26/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-parent/1.7.26/slf4j-parent-1.7.26.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-parent/1.7.26/slf4j-parent-1.7.26.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/7/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/7/oss-parent-7.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/7/oss-parent-7.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/9/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/9/oss-parent-9.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/9/oss-parent-9.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/uberfire/uberfire-bom/2.21.0.Final/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/uberfire/uberfire-bom/2.21.0.Final/uberfire-bom-2.21.0.Final.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/org/uberfire/uberfire-bom/2.21.0.Final/uberfire-bom-2.21.0.Final.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xmlpull/xmlpull/1.1.3.1/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xpp3/xpp3_min/1.1.4c/_remote.repositories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar.sha1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repo/jboss/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom.sha1" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bpmn/saymonasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/05/58d45e55527b71deff54db14dcc1c0bc7ad537" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/0c/f2b6a0c3e076998bfd8a3541a1d6517e3cf1dc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/1c/68668f97f0e2a8f3b0908c1e00bc9b493bca95" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/1f/6e794d1e4b9cbe243f02f242611bc8044a9baf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/40/d4d00afa9fa121c3e7bfcf3be5d6d51633a713" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/4a/8b9c5cbd95f870a117efafab7d98f8e1c610fc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/58/049c9ec49e2fbae8b4d8c3d14beb2e1db614ac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/ae/611e79d8a1f6e71c3b67cee21d0eadca894fed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/c2/19ecfd07cfeb65b4cc9b07ae08751b6a0df64f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/06/7c5abcfaffbe45f2c4ca6ee0a2756d4d7c670b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/07/10c59b5d66454285a88a098e924431456b4a68" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/09/0a9af734a6d5ea8e40298e9764820569cfb525" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/0a/fe369f9db61c7a61dcca832a1987846b50fb53" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/11/46e65745e3bae52d9e49854dc53d26ef7131a5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/11/af1794bc0dbb948d5513868f34562c2a51fc46" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/14/48d62db374e249c01f259a4148f5212b2654e4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/18/fe36ebb8585a65f829663e5df2d1426601a673" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/1d/ccd3e639a58b87f2b713e6f1b2ced642110a09" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/22/55a4fc9d05165ad54f9639b6295a94f558211b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/23/2583406717276cb0fadbb393c92f371ffb7734" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/25/ab6794b38a57d0631697776c679d90a40e90ca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/38/7d5dce9e367bfe6200dbf56a8fdf2218fdf9b1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/3b/a0c05c6ef5c28112a497ec0054db2bf6c49e4e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/3e/066c981342e2c15b283085d8f860b97fbec6ef" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/42/2518f30a9ade2ea9a5ea6686e683cf1eb817dd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/44/54be12aa21fd5bd821bc8e6df8901a91367b90" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/47/b030b096d2ba99efe62b6c9f438e7f22b79730" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/49/36d5df65ac71706e99f67037f23f27765de02d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/4e/862b1bff56fe5871feeeb60031af63405d38c8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/4f/3d1f06e92c3f2ffaa30f39cb97a620291fbaa6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/53/5195a6a53e1013c7f76000357b5872ec182519" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/5c/3a726dd7c7e90ad02627dc84fb329b9821dce2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/67/180092841add14a78e5d2313b57d4300b09041" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/6a/2e174a224ed9d1ff95da88e1e4690aaa60e5be" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/6c/12d9e75fe204113327b40b6554ddcab629923d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/71/8fa527c0def95a1b6a2d5a94c55d104ba948ae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/72/fbd51b931c8b19eaecc7c4be68481d056199e3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/89/95d01ca02c731572c38a53b6773c463ac78d12" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/93/65bfd5f2404bbc65e358aa52536a505c9d5ef0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/93/7e20eadb22510605c631d6f19c8f756d3dceb6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/98/5381292b8e53d15beec23dba97d72cf34726ae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/99/91b0205cfe452874dae9e994d7a5d0131ac759" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/9a/5e650ccd0df8c95acc9b9531004ba027aa95eb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/a2/e7fbe96e263df2aa34e00539457cd935f31d08" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/ac/1f1d37e792b0175397c60a0b67e961f97beef6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/ba/dbf7c31d2b6587eb785425d1e8ab60cb80ed69" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/c8/89c7d438688fd0062bd0198dd026c7deaae281" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/ca/4cdb5b1f40285f81a4ca4a32cccf0d7f62181b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/d2/cb97ac37df0b1c20b9b4a5809be36d3bf4cfa7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/d5/23650d01f12413e371ac185a2154a536afef7e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/d5/64d0bc3dd917926892c55e3706cc116d5b165e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/de/50bf30e06666785b38989b266f627b6f510bf9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/ee/dfdc39dc0757f6ac32b131aead63fa61393fae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/f0/11df2de05e5f30c84d5ccde47e7f27ce8687c1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/f5/425a4fe8af0b6d83569fcea91856e20acebb79" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/f9/2ad38e1476ba49967b28cb37377c6f0755dd1a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/fc/d1fd198d1b6b64ac3d33108d6a3b7e54906bac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/07/7dc4928374b7a36af9dbf3b2497686e3def0ec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/0b/15d5f45585b357616b409603cb7a96c4f5881d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/0d/dfdbf49ab6f30c862b95f255eb012e447d67f1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/0f/8c95cd2c48e40cc20c00cf07abd6c9d4c39902" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/14/07a3f73abddea9e0377badee496401ae4838ee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/14/df2a8ba8abc78eceaf28a341013012effa2869" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/18/ea4dbe5bcd74c7a770c43cbdb0f5b04166e824" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/1a/50223f6543ddc8c31c844e3cc3bf04b9326746" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/1d/a35da0da2b874b894861ded47041256a733601" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/24/3241e93e5669bbef1ece3a271dcd034820db92" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/24/e07ad9150d2f8b62b388d5d64d7956337c3e2d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/2b/e46a9d08353876b5a01fd635285b3aacfc9d8a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/30/9fb4b853b082fa0abbd142660dab07e1373543" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/31/55567d52c0724a34c947b99136015ed8f88318" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/34/891fc1cccf7a10a19d8a627002606699066d5e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/47/934273e4b6a286188bc034365caad756ef5c29" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/48/e39a29db51d24540bc1fb33691bcc0a894e5f1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/4d/419612daabfa04d770421179e4d388315b0eec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/54/bc019e5ea70cb7a9360415b2a12eb280635d75" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/5b/38cd1c5ed4ed714fd03684b11485c594180f46" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/5c/90a2dad0f2d94908caec595369ae46a2574544" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/63/1ae94b06e9e13d33f0acd5ef0a6e0b4c4b7909" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/6a/1b1041c02c8d3668155dbf0f78a6129dd2bb4d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/6a/81a4b0c60817418c748e19d23b2518a072f3ec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/6d/af705d3149fbb5b1009be82af071e884d42f67" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/6f/3cf2cacd1ef30feab1e95ec026e440c939fd59" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/72/3d47c6cec3de3bc0156dac08e2ba12cfc9ba2f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/7e/d6ed9d9683fa9ffa872fb66275d803e278a6d3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/7f/925a387a2ca3ca7d219996d8db3b88a79b783e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/80/df069c6bdd9b27f4f6ced91fe3aa5e786bc304" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/8d/7539dae157413479b12937fae665d8e7aa3f24" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/8e/6c6be74b775c97cb23cd59fde37007c3d90640" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/94/97a160bf368dd9a2716f326ee3be9e395fb3a4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/95/7acf68b4adf04069c96aa88a273b5b6ca3d628" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/95/cab0eb080eb7980e7db1ea94e0ecb4cb085529" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/a1/41ae6ff785c95e0c065676bfec34dd5114cae2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/a6/87d841aae10e2e76dcb924786a8098f6b25cc2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/a6/ca8dcd2b7bbfa59e4c7b47e97f1aa9b947e4b7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/af/0a659d615f6538870978d6f63a8c39fda5a9bf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/b1/e2da68d8ea4631c7ebac593277308fb6a5f6a2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/b7/a001931d2794899c22ab0eb1244b8249b507b6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/b8/52633bb5fc60496fbcc5d14abfe44928fc6aff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/d9/6fdb1d4a73f7a9bd069e4759445309e847a66f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/de/0fa8481f2f48a5eec820cdd4d615889edded5b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/e3/1511ab5c67e7103737cb74e7642c6f6cac8e54" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/ed/2e9681b401fc649dca567a6ccd0e3bc8294f4b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/ef/d5359bcf9ef46e7f02ee87b76d74046ccc9444" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/f4/eaf5cc4b558c5224479fb75c27e37023792ddf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/f9/309461d31a916a41c11d50d1dadaa2b11d9fb9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/c1/da55b115abc26aa9204280bc0eaeda64651060" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/objects/pack/pack-935997b41a5910fe1e4e06813a1fbee2a2b84c24.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/objects/pack/pack-935997b41a5910fe1e4e06813a1fbee2a2b84c24.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/objects/pack/pack-935997b41a5910fe1e4e06813a1fbee2a2b84c24.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/3b/4d338a716f077960559126a690e5a04e343523" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/59/9ff62fd534ec16de68a69d9b75452df8a1fef0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/85/2a9c0b0b9f8765d95c475622706f01f9522460" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/f3/444705d6e5d656e2d3cc1cca2c5fd4a904000a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/85/2a9c0b0b9f8765d95c475622706f01f9522460" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/01/67955465bfea671380af2883a09c8de50c9c87" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/14/3a6a1d0a4ee55ad15545833c9b538948a51f7e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/1b/8b0ec28aac67ec8897309bddd1d38f6df702c9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/21/66bdd3406164ca4e7620bc8412aff749a1856f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/29/b2a399a78cf667edf5b1fe4edc1d0c3dd4e5d6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/2f/13c93e9262ad953b6831eb70743ccf428790be" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/36/0a6cc8e0a07a2c4889716881cf1d8746fda08d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/41/9eeb10b2263f95ed496e891a7429d4ab2c6f3c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/6e/79a6f76a666ca8aa9bc394423dbe4df70cd35b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/83/d5b5918fcc999fe7de91c33c57cf0663b94539" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/87/73e2579f30757e765affe8795668bd29c5458d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/95/3530f4286e3176107115ab5554f3448e571cea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/95/479c7b33b89a57d11bb00740d89d5744d800c3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/b3/340f12d6ebef345d4bb7f66d9aeeb9ac9df6e2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/c2/dce57aa37d1a933457da0a4c35dadde8297231" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/cb/355fab4a12ff245562457efca5047652b0dabb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/d4/56915b33be605a2c49b67c4755ff19611e5209" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/da/888f366cbe215079760cf7f8adf9ab8c44a472" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/df/9b28a6495be9af54cb3acca0097a0e3d8ef4b3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/eb/aa79efbf845a0531f28359d6b2966321b04041" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/f0/b1719d737fc9fabd825c4512c2f18079ab0a07" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/f6/fe06222ea768b52d556977f8646ef95f35b24c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/21/736737218bc534229094786e4d4266418567af" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/24/51bbbf837c74448756254539bad39910da3058" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/3c/300254a34cbe233c6b757099fb8d62264610e0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/4d/02077a018d3408d484746409819e4a351e9c95" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/64/b847bd02e69d394099cc84920c279fb5cef75b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/64/eb39c4a549c67954199b0ce67eb1ff59f7047d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/96/cb8ab66929240b89c768177590f18d0fa36940" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/bb/332aa43a92f4753531b12c2c6bbeadef016769" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/cd/382bbda4aa207a9be88287694ae23ea45ded88" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/b0/bb7c7fea4333d748fd332fd5a56a79ae70a1ab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-386387c4c561f6ef2f9109a8b668fd551155733c.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-386387c4c561f6ef2f9109a8b668fd551155733c.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-386387c4c561f6ef2f9109a8b668fd551155733c.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-9917dca6266a6804336480ec58ed910dc9b786a2.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-9917dca6266a6804336480ec58ed910dc9b786a2.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-9917dca6266a6804336480ec58ed910dc9b786a2.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/SpringSecurityIdentityProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/Evaluation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/ExampleprocessIdprocessId.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/ProcessDefController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/ProcessInstanceController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/Quickstarts.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/SignalProcess.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/StudyServiceWithLooping.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/UserTaskController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/config/JbpmConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jbpm/spring/boot/subProcess.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jbpm/ApplicationTests.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/jbpm/RegistrationSuccessful.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/Test.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jbpm-full-mysql.yml" afterPath="$PROJECT_DIR$/jbpm-full-mysql.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/FETCH_HEAD" afterPath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/FETCH_HEAD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/security.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +646,18 @@
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            <state relative-caret-position="385">
+              <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jbpm-full-mysql.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -62,8 +692,8 @@
         <option value="$PROJECT_DIR$/clientjbpm/src/main/java/com/config/Jbpm.java" />
         <option value="$PROJECT_DIR$/clientjbpm/readme.txt" />
         <option value="$PROJECT_DIR$/mysql.yml" />
-        <option value="$PROJECT_DIR$/jbpm-full-mysql.yml" />
         <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/jbpm-full-mysql.yml" />
       </list>
     </option>
   </component>
@@ -102,6 +732,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -124,6 +756,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="repo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-jbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbpm_docker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="clientjbpm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -131,12 +777,10 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/clientjbpm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clientjbpm/build.gradle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -588,11 +1232,13 @@
       <workItem from="1566318886760" duration="1353000" />
       <workItem from="1566330599828" duration="1849000" />
       <workItem from="1566478605725" duration="1544000" />
+      <workItem from="1566571431650" duration="6276000" />
+      <workItem from="1566587656256" duration="1038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31808000" />
+    <option name="totallyTimeSpent" value="39242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="162" y="35" width="3678" height="2125" extended-state="6" />
@@ -605,52 +1251,30 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983425" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983425" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13871866" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14038998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980502" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983425" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13704735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -887,14 +1511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/40884eb4-b0d3-47e6-a7b4-786d74785985/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -919,8 +1535,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="1462">
+          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
