@@ -6,6 +6,8 @@ docker-compose -f jbpm-full-mysql.yml down
 #Arrancar la aplicacion
 docker-compose -f jbpm-full-mysql.yml up --build -d
 
+#Abrir con el editor de idea clientjbpm y run
+
 
 #Entrar en wildfly internamente
 docker exec -it jbpm_docker_jbpm_1 bash

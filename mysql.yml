@@ -1,5 +1,6 @@
 #Start
 #docker-compose -f mysql.yml up --build -d
+#docker-compose -f mysql.yml up --build -d --remove-orphans
 
 #docker exec -it mysql bash
 

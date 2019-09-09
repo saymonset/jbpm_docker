@@ -56,15 +56,15 @@ public class Test {
          * */
         String containerId = "saymon_new_container";
         System.out.println("\t######### Deploying container " + containerId);
-        KieContainerResource resource = new KieContainerResource(containerId, new ReleaseId("uft", "chapter02", "1.0"));
+        KieContainerResource resource = new KieContainerResource(containerId, new ReleaseId("com.myspace", "saymon", "1.0.0"));
         kieServicesClient.createContainer(containerId, resource);
     }
 
     public void newInstancia(){
         Map<String, Object> variables = new HashMap<>();
         Long processInstanceId = null;
-                processInstanceId = processServicesClient.startProcess("saymon_1.0.0-SNAPSHOT",
-                "saymon.sencillo", variables);
+                processInstanceId = processServicesClient.startProcess("sami_1.0.0-SNAPSHOT",
+                "com.packt.masteringjbpm6.pizzadelivery", variables);
 
         System.out.println("processInstanceId = " + processInstanceId);
         //myDesignedProcess

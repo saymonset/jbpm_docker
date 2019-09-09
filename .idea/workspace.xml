@@ -2,219 +2,354 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c141d0aa-6632-4a68-bb54-b621416d0096" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/_remote.repositories" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/evaluation-1.0.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/evaluation-1.0.0-SNAPSHOT.pom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/maven-metadata-local.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/resolver-status.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/maven-metadata-global-m2-repo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/maven-metadata-local.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/resolver-status.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-05e0b91d9ebf6f1bc3cdd3e00d670da8b6722baa.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-05e0b91d9ebf6f1bc3cdd3e00d670da8b6722baa.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-05e0b91d9ebf6f1bc3cdd3e00d670da8b6722baa.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/af.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/06/65860e37187d3cb1891881ed80877443519986" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/07/2bf58fae884016977253be8da4754350721533" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/0c/345698a8dd45e4960d3ddb01db55939da4681b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/15/b2a247fb69e5f2ab458745b3b9f17df1b47730" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/17/94321864ac0422eb8006eeff0c54e711f62401" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/1d/1784cec9fcca72a972de1b3c39772d07450ac7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/21/b75cc5faa90eddf0de6077b9c0d35e895d26fc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/22/0c100ec6db73de96ffbb123c98016384d36bad" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/2b/e7ba01d655c51b5cf782f0e7183ac36d504eb9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/2d/9561ff4b827573581affe6c4892e069975ec05" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/2e/06c1da3964ddfacc52ae7425909ba135a2e675" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/2e/d499669b494e572d892c6027bd7edaa563c062" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/2f/7673c6746a58f4942942a6c0db0f6c2e3f7d14" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/3a/e7802aac075559a1e4fa008ab0065756a95c6b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/3b/9e4e83f15ed717a396ba109a14ce1f7bec129e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/40/beb9be22bced3d4e3cd16f3926cf41e9ce6912" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/45/e7ec59c08e41cfd4f1ae04f17ef298b9aa32c2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/4f/72346ca5c2ebf852c2e0ad0e00bfe084ad8851" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/54/661a7ee0baaf100b089cfc5735f48efed14941" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/57/0e21109a61721e8cd7bb367a0cb1b5a1408df2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/5d/387cfb0256eda38e3f224b06546c3eb02b1e29" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/60/e67677de6c65b1984b66fab123ea1aa23b8b2c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/62/a794ed9d17c64286df80988aefa8055408c383" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/63/6fddb652edd6af76e8ae398f540fbb48acc30f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/6d/c7732814b309a03216a10b00b810ab78d00f7e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/6e/cb017507d31fdaea1ae7ee0c4953aafe9fccde" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/73/294f7431b95eb82a75110a462a488a8e76f041" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/7d/184d32cf6cbcc21db0f15223bd09de632e6b8d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/7f/3e87d399610081cb27b6eb742b7111f57d7897" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/81/df4db4e1c606436986797a2331fb73a14772c3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/86/fc690e7e8bfa10d35aa9d086e43b555c1bbd38" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/8a/8f38d90984fd62084eec7a33157ebcc9d2d148" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/8d/b42baebcc189bc7aa92b5de9d411d88e4225a9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/95/6e85e00be5402fa21e951f29a1aeac65215e43" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/9f/d6072157aa0bdddb3b9763352b927a92b972ec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/a6/a32485aa77418b744ede0cd5f71afa81b7836a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/a9/764d63edcac445dca32ca773ed7e0baffc05e4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/bc/c13ee756fe984a887308dfac9251d653e12c09" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/bc/e92ef7d43a5f9558e1624a436341f8793f76ca" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/d0/52a6b3490a34f27ec20c8abcca55d208cc2201" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/d2/688856fa4d3e994fb977fa7a49d00a42864078" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/d3/992ed7ccf600f4be0473099c9796be5cb95ef9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/dc/40dd1404bf21207799ab39363bd0ef083dac5a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/de/0489f314ce6c345938bd350c4a0afb8c9d8e82" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/e7/171e6cd4854819075cd3b216900e8ec68b86d8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/e7/19a121c2dc2be3ab2a4614a4d455c0f4b0552e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/ee/b0bc090372b1874ef628c19cb8d95c07a0b043" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/f0/7e92cb6d2780bb85b9e64e458274ea31bc0cdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/fa/29264aba76478769dcba365b5e40ff67c08219" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/fa/6292788be5499a40d0abc6b9000c5a836f4a6d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/fb/bcfee326e59216d961a780e774288b283c643a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/fe/57d3fa85ce5e316e41b3685c238ed22dc44a41" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/pack/pack-e703bbfa89ee4a433ae72001c8a1412ae779532f.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/pack/pack-e703bbfa89ee4a433ae72001c8a1412ae779532f.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/pack/pack-e703bbfa89ee4a433ae72001c8a1412ae779532f.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/pack/pack-5169e03953b41aa54e3e89f205708565821a7f7b.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/pack/pack-5169e03953b41aa54e3e89f205708565821a7f7b.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/pack/pack-5169e03953b41aa54e3e89f205708565821a7f7b.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/pack/pack-0b668d0e8c3f2307006d48fde6d4da8eed4ec351.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/pack/pack-0b668d0e8c3f2307006d48fde6d4da8eed4ec351.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/pack/pack-0b668d0e8c3f2307006d48fde6d4da8eed4ec351.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/FETCH_HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/af.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/objects/pack/pack-a76b65a7c70e26cbfa1fd474ede42912f9df8a24.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/objects/pack/pack-a76b65a7c70e26cbfa1fd474ede42912f9df8a24.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/objects/pack/pack-a76b65a7c70e26cbfa1fd474ede42912f9df8a24.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/examples-.kie-wb-playground.git/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/pack/pack-0067aba934512e491a36a7320b73599cc878978e.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/pack/pack-0067aba934512e491a36a7320b73599cc878978e.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/pack/pack-0067aba934512e491a36a7320b73599cc878978e.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/pack/pack-82b38f090aece0b59fc763fe20ada5fc917716e3.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/pack/pack-82b38f090aece0b59fc763fe20ada5fc917716e3.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/pack/pack-82b38f090aece0b59fc763fe20ada5fc917716e3.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/pack/pack-0b2cb6d1eb799f6dbd46fde29654f6d1c88b6e11.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/pack/pack-0b2cb6d1eb799f6dbd46fde29654f6d1c88b6e11.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/pack/pack-0b2cb6d1eb799f6dbd46fde29654f6d1c88b6e11.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/pack/pack-25f1993c4e669d5d16e91eaf0baacee94be4774f.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/pack/pack-25f1993c4e669d5d16e91eaf0baacee94be4774f.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/pack/pack-25f1993c4e669d5d16e91eaf0baacee94be4774f.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/68/fb95b52fbdd35f77e6912da4c65eb2aade58fc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-94d175669f970559fe1ce899be391f03e89f616c.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-94d175669f970559fe1ce899be391f03e89f616c.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-94d175669f970559fe1ce899be391f03e89f616c.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-bf30a2e30bc78a7b2b69268bd8971947346adfa1.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-bf30a2e30bc78a7b2b69268bd8971947346adfa1.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-bf30a2e30bc78a7b2b69268bd8971947346adfa1.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-ec6f3b661db9a6751c863e666fadd817cd61006f.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-ec6f3b661db9a6751c863e666fadd817cd61006f.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-ec6f3b661db9a6751c863e666fadd817cd61006f.pack" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/TaskExecute.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jbpm-full-mysql.ymlXXX" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/05/58d45e55527b71deff54db14dcc1c0bc7ad537" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/1b/82170d7db72b56d7e114f95609b75fc3e7b9b4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/1f/6e794d1e4b9cbe243f02f242611bc8044a9baf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/5c/d638a0efb09a15b4f5b1c55e4b1ebd619045be" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/74/61e219dc4599477577052387fc26e059c35714" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/7e/0b1c7ec83efbb1871ab3b3cac1c4c20ab976d1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/7e/dab48d3261a54dad78891e86d3d93bc126d838" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/7f/ca870395300c269c37f05eba1816a9bb09f7ce" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/84/b5f73bc54a79952e9d7873840e51aa246175a6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/a8/b758bfb27adb23073ad4adb445e5abfd331f41" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/c2/19ecfd07cfeb65b4cc9b07ae08751b6a0df64f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/cc/bf93488934693547a6945c2eff503447d30afa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/ec/a30dc9cdb019352400135f4c0dd2987e4329b7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/refs/heads/master" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/00/77cc1ae52cf5e17764101f002f3375181a586c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/02/20b1f664d538f2482170317287e71e4859ab03" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/03/a2129aab15525b3aa7390245c1793e4f6ee49f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/03/ccd0b0f4e2be1d89dc63196d417fb2eac6cbff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/03/d577e92577c987aca6d0e8614a2f23b3dabf34" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/05/77c5de7c18fd0662e114306e1b16d3c33a9be3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/05/bf3cbf97f71f44ec457d1967afd2f8e18383bd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/06/9851ec9533649c383a68feef6bb5dcd3ad98e7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/07/1a9bebe0e1569468980766ecc7f3bf4fdcef65" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/08/0e72ab268a54375392f377ceb33c75ee7edb1f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/0c/74f7404e630e19ba86a379f6c4ca4df1d1839f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/0d/dd4a13f969fefedcd79723e3fd1b634f25901a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/0f/37fd0902e24f3e85f499f4aa7f9f95b94f83f5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/10/90d25ab37888ad1eb368fa93d6881c8a4a7215" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/11/4c7d785c5d2bc3f382889894441d405fa7a6db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/11/cf47bf007fd35b3bb9a18712804fb6ae90549e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/12/274a8463fc97bc3f92911e4b7c89795eb66a88" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/12/3b8d0086e6f8e70db39a526a0d170b6e9b34e7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/12/99b3a3bba870ad9fe26d35a2a25080359ba68a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/14/b1620c8090957d1e0dcaeafac444980057e462" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/17/64638fd80db2f79da0f423a1ab3faa213a8327" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/19/4a71ab438dac3bc563b85fb85019caec7d3fed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/19/4d731435fd87ea5b198dce05c78e4acd82fad5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/1b/6c84a2d46382d622729209a67701eff7673a11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/1b/d0ad422ffc4360a113503521a5a7a2ec4ed6bd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/1c/6ade3675e393498243dec42d23f535974c83c2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/1c/9e3e94f4ec49d51c71cd32d2ae5df36fbc3720" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/1d/6bd7be9d45255ce3251e7fe612c7f75d1eaeb4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/21/b440981616e511cc1f213feb74b13c14949862" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/21/c607b4c6ebc95958e79ce7ced7edf669de8720" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/21/f728133c5def6968ed38770c2a3c53829639a7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/22/248eaf4c0f73c13575472131df737e3434f03c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/22/6de504d831a4ac26218da63aac4425a9170ae9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/23/f8dbb960f0ff4ef5135a76d79f70dabd2a6484" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/2b/2dda44bc7ef4b3c9b987929efd3d3208da8d1f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/2b/a4076c168e58126b2cdff5a13f4db5ca25961c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/2b/bc50342b23bccdd9ae6c18f6e5fff85d1ec398" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/2b/dc49f89d150e65019b6cbed4acd49a8c62d7bd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/2c/88b3894c8dc41ef06aa7c3a36cf4a0aa098862" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/2c/932f64eeb81fa818a14ad76befda4fd9d912eb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/2d/13d1a2cf9421d18f2184e10132fef1651235ab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/2e/bb3e3e5b5228369de2753a5ea80906d966e028" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/30/4fab643822a5b95508e850de8f0d58f144adfe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/31/101538c2079ffcd9aca1d1f649e6a87974a041" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/31/2a0992c552cb7042c67f562ba9418b9c21465a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/31/4dd797c8855dcb31ea85251ae00bd12f3d7308" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/31/bc3f70b13ff6d702be331dcf18af9ccdab1741" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/32/80e2136c846d5572f45dc6919b3adc445eebc0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/32/c1b17aa70406724d5ca23cf9e8214c9fcddf89" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/32/c6374dbd7a4f4cde8d3f43bad692fb434d0ee1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/32/fa3fa10056ac56e52d1fd23831ff545d7f3885" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/33/5443a07dfb9edaba441eea3978f1f8c0a844f3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/35/a34656f1f2fde8b9d6e8441148c1991fe722a1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/39/0a2a661241cc80002d531e5d65eb3694100507" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/3a/525bb1f84ac37e8ff84fa74538efef90749efa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/3c/941a2590898b3b3ba6970e5ca75be9ae9cd7b6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/41/a6bfa2a78b65fda3078c00b185f966e69234bf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/43/a8098fd430b4fa62b799d7b8ff00129b774969" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/44/54be12aa21fd5bd821bc8e6df8901a91367b90" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/45/22082eccecff64f71fa431d8901f8f9dd5c2ad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/46/4346818878b8fcab23acdca270a712cb83355e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/47/3ef8bf7c82716d1c586a38e568cdf212bf5c58" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/47/4425efaf9b3d8e8120132032cd0e49692847f3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/4a/412fa1f18a3371069821ffac2ab434265387e9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/4c/68eee07fbd89e0b024bb6451cb3e67e5e5d24b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/4d/9dfa773541d4a21f374c22bb100e051fa15618" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/4f/a6b81fa67436179d32a30e9fb82f4f578f3187" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/50/64c6f67808e8a0eff23d291e74758ad7862795" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/52/8c5c964b812994fdbcfa83ec3de03e4e311e87" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/55/8e5c984c0e4c6836a4db9750bb3c8c9bf2ebe3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/59/22975d9498620582edfe7ffb8347dd37e77c25" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/5a/49fc925643f3efdd66641206f45c5210c72853" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/5b/0d0c3090cb2a98c6958070e3b62a483994ade0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/5b/b455ddcc1938d915fd9e58d1bb3d8555b706a7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/5c/2d3c22d3ea014b9f7bcc49b5c458489b88cd04" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/5f/826ca9c4fd3e7a0f644955f663348fe0f7a7d4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/60/003f9d5b1c12c4d137e976ccf4277043a7b64a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/62/c2bb3f6cefaf28e7b5bcaad6576c09bc78c6ba" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/64/f95bb85183365e924b4457fdb751bdb40e641d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/65/793556ae1a39e32a9d3ed0bfdc6b18067321f9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/66/85a6bd7219e3a6be6842797a1d5b4d76810107" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/67/3986aec22f8cd86c4c477812c562e5080d0719" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/68/0f258573f443f195fd273481f33c1b8f236429" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/68/c579ffe7fdf3b0c20817506633502c1990546c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/68/ee6f2ea3094c013325a6975e13ddb6a002b2fa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/6a/0a0c8959a2069cea781d5c3331998c2e3f622c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/6c/edbd8274eb90c7754ddae5cdfe760ee71dde08" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/6f/b7bf07b0f42b58b81710a085a241313c4feaa9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/70/4f0f5acd11ed6c0c8cc99b7040d08934105c8d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/71/80a68c66cb80fbb23ada1fcfed981ec72d6852" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/72/ff85dd249ca1c5ac305bbaf502e6279a15636a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/75/a2e039deb2642927d04c773fcdf75083451ca0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/76/5bf40ac28fbad2ec52b3c1d76644ec2b18f4f9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/78/fb2be52c8b646b4e7a99073c7621073639c49a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/7a/f67f579ce62f1ae1910d61cb9e4109276d8d19" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/7c/90050eb99f8fe14d1e41e07f433a7f6c70521a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/7d/1f009a21dafd0ae7995f2e963d2996c7868a94" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/7d/31b8236afa780c642864d369fffd517ca8bac4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/7e/7a3eea12d0f437b18d14527169871fa2ce8bdd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/7f/582d2c53e60cfc4f3d143e9e5d689cff1ca49d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/83/9b53bb6e23fa535934bb436165b9c8ec5ccd7c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/84/6829432bf46ae0f0a07be1750358ae990f9203" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/84/f3462d92e00eb924d08330bcda458d7ea68c2c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/86/2a7810842be357d73305e4e0e786a688ace31b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/86/bb4bb88974e7de97ccf1e2df2a4cfc74ab7455" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/87/cdaafa2a352670c54139ce56412892cada8813" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/88/4f17cd577958d23f0e0ea530ca66497806ba37" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/88/9b1640fb3d8d44838711f01b6513d85a245565" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/89/8e283e3a340acce02758db36be841506ef9bd0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/8c/7d70df595a69c96f5d25ab9d9b71b63bbb3641" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/91/ca875a336762923be9b57287292bce47f5ff0d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/92/e11d2169f18c921625c07d05b13c34debc1034" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/93/082cfb965867a42e14d324ac9d27642250678e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/94/542d5d8ec3b06e739d079ba9e96ae9426ae00a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/97/248b03943e763a41b3a7dfb5cd7833b95bec43" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/97/c8ff98cb1b50bf022a6d70149449d0a0b3726b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/98/1805dc6c7fa9e0742bd7cd7947197ca3bbc08a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/98/e01565ba13943e587d8794df1d07a3374e3cb4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/9a/f9375561bb6741f274b5666f850ee6d5bbe646" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/9b/cee21ac57202ac13017fd20d9325fab6c645e1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/9c/899bb0a06cb73645d558e26914bf4e454b3540" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/9c/b120b612482e4228ba1cfefe16a95f742feec9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/9d/290e5269c3e17dfcbb8b2d962a976bd3eeeaa0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/9e/265f250f8b689f1c72bc14a82355d53a62f7a3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/9f/1ca40337177452bc81615029b9ce5c46aed46d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/a0/73924f222731d7f889d53da2282f86b9c534e9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/a0/ef47089131b9c6483da9817b66e047e9d6b3f0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/a2/449bc9f3cf0a4b1df0345a3eb77d6299659615" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/a2/5f9554ac29f9d1bd3b9d5d973dc2d8a3f194b4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/a4/69fa49d162e90743c2773e214b40a9a641c044" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/a6/6bb7955959ab9ee42e87372e087cefc2bbc90a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/a8/685991fe9f48bc644cd69a866e6d59408dfb98" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/a8/b36303031edfbd2d2e40da7fdff82fb6d60e87" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ab/f21b3a9ef4a9986b828076f4e7e14f7bdebb97" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ad/a7bcc0640e63f93c3b99ee23e6bada794eaac4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/b0/05bf28d608cbd64e3301cb6fe43cb16f3182d0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/b1/7421215ebb9fe24502cf908610e1e659df3cb1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/b3/b4e864f137bc493805b852d291f5242479e4ed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/b4/052f349a8e83ee80cd21f3dd6cbff4261fe6d8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/b4/42d4f9ac63a9acfb6e85eee03ba8467611053c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/b5/fd440a64f4b92a1dff53178016bfa2e8491150" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ba/075a9805efcdb8f8dec09fe07152bb5798227f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ba/2464de50610e5e89a28a662c22c52d00471fb7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/bc/78ffddd35188961cc46e4dc9eae47704d5e704" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/bf/673778dbdb3f2a2d1bc6a7dc18579a063313eb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/c1/424808a60fdaa26532c5bad03ad16a8c99e3f6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/c4/755bd0032a202cbb0940a259de0c1926f10fc7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/c4/a1c64a0230c6761a6d00e07b63fdb1d32f4de6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/c5/491e27e36bf30fe73b3c459c2ab120edc2f218" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/cc/8a0bc1339bc643f6f053859bd1b557e2826c13" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/cd/1afa35752b88dd806405ac89ee194b0d2a1303" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/cd/8719fb38008112615f50b1a7d93e44b49b902a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ce/15c8668dca6a66dfb5f705d9f0272d721088ef" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/cf/34cc8d15b5219c840c494c7dc2f4cf652158d5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/d3/05f4b7a04a8bab074108805ca25d69fd76db32" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/d5/64d0bc3dd917926892c55e3706cc116d5b165e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/d6/1836b52af5795ce16353524140e3cbc1085cc4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/d7/232a67ddc528029dd8c041995645a5b757d84c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/da/c71caef49e0855fe3039fa32f62939b453fa34" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/db/89609c470b2456dcec20872b5ab1639ccec816" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/db/a5cc4753d00f2325359e4497c092814f202474" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/e0/fdbd1f097d3c4d83028788b8d4b12adbbfff67" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/e1/6868979d9450e880ec612084d6b45d5ce5747d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/e4/45a028cba5dde138630df0b342591e2722adcd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/e7/82cd1b9e3bfc5a9b9b6260a7e86923774733f5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/e8/32a1df9b2fd20146059177908faec8dea85b10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/e9/4dc192b6e95ce712ea1b311ad4981931eb0ba2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ec/8c5a65e7f9205f8a93abe7760825df508882c5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ec/eef3d03bffdb225716a810edf4153664e49b4f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ed/4378eabe00aceed945e2e0fd25c56ed08fb799" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ed/b41755c1eeb9fa5540699fd21498fdf9690c70" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ed/b530d6eb5e0754441c28de3fa91c3bd3e550d8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ef/1aa0cbf8249f3a122b2b37475a24f11fb16f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ef/5895c2bb9cda76b0161adcd852370eccc1b06a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ef/854c85cfdf24d8939dcf564a0fde242800adf6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ef/87128ca1454692424fe07f39c8182cef2fc304" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/f3/62ba925094edc1392f274f9a66751327b9324f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/f3/950e73b1f6cc57f241ed658452afae60764ffc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/f4/165eea342634c422add89618808a1531eb2cf6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/f4/45bd857723c91a97773ac47b5fce877ef3e1f9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/f4/b42a6e389d9f24393777c79f1e146e68993f29" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/f5/52ac7fee94ced7b9e1f26ee9160f671d70f4a6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/f7/2c0b9a01ca498beada10ebcd0aae306e28f0e2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/f9/b8efbb80ab36ad95b8d42b8aefb4f95714188f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/fa/b21f8468a90df4e53c9057c52e3cb0b1e94260" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/fc/7a0332a3187f9cc361a704b5714c0b025b057b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/fc/e717c421659c66ac7c10f1f0b89f908bd67b21" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ff/5974610110d22f06d1d76530744429e95e0a30" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/objects/ff/f1b7587016f6f5e1cb57e5fceb10e4aaa0c4e6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/saymon.git/refs/heads/master" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/02/0c5aaafe43e4a724cf7caa30309209c25e1c69" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/07/7dc4928374b7a36af9dbf3b2497686e3def0ec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/0d/66f59069dea93524cb273262922ffb4d2e27e9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/14/07a3f73abddea9e0377badee496401ae4838ee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/14/df2a8ba8abc78eceaf28a341013012effa2869" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/15/7c5f329e066dc7b19c5cd4fec3d8e1992d48d2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/18/46c944a197df87b581e53bac15b800df234eef" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/18/ea4dbe5bcd74c7a770c43cbdb0f5b04166e824" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/1d/a35da0da2b874b894861ded47041256a733601" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/27/1248dda2063f74068dece7e50d7742e2e9fa6f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/29/8286657e5b96b7f3dc1f9741220616f89638b3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/2b/e46a9d08353876b5a01fd635285b3aacfc9d8a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/34/0144edce19920c4d6da5d7e39282f0ea09867f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/36/9f8894042418067e8938339efe5e78562d21ee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/3b/0a7ee352bbed1e9b0761d63964ab4c90af9a83" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/3d/98f5116f08a033c8ec86e43c1793fe1527cfe3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/45/57d70964b3454d1354cb0b5883edd1ffd7a184" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/45/769147484881db1c91a78a3ae6ad0792c41348" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/49/96bfe053b5d7fb42819b843db1024699f0a158" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/4b/36b2ef981275db3cb913f8ebb244013f29cad9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/54/e6c20c962f793a601c6d8fd54f9e025cf4fd0f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/56/a6172578735aa423b5066c4eea159360f2ad3b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/5b/20f17c2426bf5277830b84d525b187571d9aac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/63/1ae94b06e9e13d33f0acd5ef0a6e0b4c4b7909" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/64/f11d40d0da94015417bcf2dd6aa6f9a7cc87df" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/72/3d47c6cec3de3bc0156dac08e2ba12cfc9ba2f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/74/43196e02f3ee9ef6daa7c46a6ae02ab4262cee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/76/e97f7570251d4e6e123f9aedeb1af8646a4f7d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/80/0c68914594a660b7dc4c18bb87c633c4222f1c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/8e/6c6be74b775c97cb23cd59fde37007c3d90640" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/94/97a160bf368dd9a2716f326ee3be9e395fb3a4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/a1/523179734c27c6d38003cb4bb7af18a9e64862" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/a8/50ce955bceb3f2c55806f7572e762f9257f6ac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/b1/b4b15948b73222e9dc23bedd113541b6936891" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/b1/e2da68d8ea4631c7ebac593277308fb6a5f6a2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/b3/8b9f172c09c96af9fd74716b8bd5c438e32ec9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/c0/3f59129e1abd500df177ceefc1e8ac6f54a159" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/c6/de7ace3db6ece6957dc22bed766ac048dc0951" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/c9/185a2ea814265cf565757d8240a985bf66513a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/ca/fe546b8c54f4cef958dbc536b86030a4bac0f9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/ce/ac0369f2c9ff19d103c49605b0b3f39f9496ec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/d3/f24e4a07084e272d64483c4cc0f25a770aff75" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/df/3a8af3defe8c82955afc082e6d021b0566f0e1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/e1/ba7124b821d46745e354ae09d9416ed63f1936" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/e3/1511ab5c67e7103737cb74e7642c6f6cac8e54" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/ed/2e9681b401fc649dca567a6ccd0e3bc8294f4b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/ef/d5359bcf9ef46e7f02ee87b76d74046ccc9444" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/f5/47c62371c81b9254130d211de53d478a3f35bd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/objects/ff/d5514d4ace489aa1939add9f0f32c39e89a7ae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasets.git/refs/heads/master" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/13/68dac0f52a2128470681710806952eae093b62" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/refs/heads/master" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/1b/41b8cd077dbf1340ec657b5c14ee4b22a8f382" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/42/a9fca0fb8704a32dc65296a52788492dcc371a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/a2/08387baca3c94ca9fdc270c22a25d155f0a1fc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/d8/3ceb2ee1f6c1562ec1f93677e09ed3594bbf50" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/refs/heads/master" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/d8/3ceb2ee1f6c1562ec1f93677e09ed3594bbf50" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/refs/heads/master" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/06/579dfb2f563c1e76429482f8e402d1ac0be026" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/09/f4919efc82b1249c8af04f639b2a831d598e61" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/17/b2cf908a3acc5d90867a48fa4e2b3408fd0140" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/1d/8956735e3d98a568262ac0c8c6c295976a20a4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/33/0ad1b154ac85e82b88aba97c930f25d0e541f4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/36/8bbd8f723d44e97a2bf4e84555d00002532f10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/42/20b821677eb060648b7cd94cb28d1be1723ced" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/65/16761c81960a6359c857ec9d8ff711882d22ae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/7b/65e9dc02fa0273866b9b60cd32585ed56d1853" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/80/48d68f6d87d2b9158c10c38202f7f9e9a7b17e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/8b/c7a2fc3ee2e047bbc28fb12a17903dea1e8e13" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/8d/5c16c18bab3ce184be7d77be2ddba1043c38d4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/91/40daa54fe522cc3901439b2f78670828a9d7a9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/99/83612692864c9bbee5908f6535f1f518592ca5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/9a/0c246c22a162028c2dc5ff139674f0e29a76eb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/9a/aad613edaa0e86f81f9899bc15f95831ddfa8a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/c7/e3944449f30fa589c20f4b5d353015038a8157" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/cb/39b24395df03aba09f276541bdae33b2192c69" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/ce/919b074f22e2b54a8640689131f0ab96607263" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/d7/812789ec16f2d0cc7952120e28405362d243f7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/dc/b724ee629c492115cf74aba5c4b34a7ff72a8f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/f6/b2bed0462a485b5050fe8d1b05b4f9419ea3d1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/refs/heads/master" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/0d/7ef614679da23d01a2b524aa655f481c3c112b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/1b/bdcdcd151df45665dbe14ea22edbfc9df017d4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/37/a0737cb4694eb107c60353dfd3433be2e61fe7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/3b/7e7cd8fdabb18ff63d97200ad940eae4ff9896" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/68/7cf67790b3baf02ab2dac71c07433459b6081c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/a1/8b6680a6c6a1487133efea891eb323b7932960" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/c8/dc94407b2644feaf0e6087827c967623fa6b9f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/f5/82b30db90b572fb576086314a890a8eda913c8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/fb/1028edcdf3e04267c7f25b99a0aa316d751eff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/refs/heads/master" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/1d/632217d865f4cf5b634e924bb9f704ee2f9319" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/5f/6396752cd6f12c48554875ff96c53cc6abcfb8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-1d404f19f3e8315384318fa87f3dbb6cee7010bf.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-1d404f19f3e8315384318fa87f3dbb6cee7010bf.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-1d404f19f3e8315384318fa87f3dbb6cee7010bf.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-32dcd001ebcf329028315ecf982556aca8e55a7f.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-32dcd001ebcf329028315ecf982556aca8e55a7f.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-32dcd001ebcf329028315ecf982556aca8e55a7f.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-50c58273eb901595c853b0a6b1e7533c5b19825e.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-50c58273eb901595c853b0a6b1e7533c5b19825e.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-50c58273eb901595c853b0a6b1e7533c5b19825e.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-74fee2bdbffbd9e04a98f22fe0b8d5e44bbf4072.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-74fee2bdbffbd9e04a98f22fe0b8d5e44bbf4072.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-74fee2bdbffbd9e04a98f22fe0b8d5e44bbf4072.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-945641109a65d17a5fca4c4e22b74c4444ef56e2.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-945641109a65d17a5fca4c4e22b74c4444ef56e2.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-945641109a65d17a5fca4c4e22b74c4444ef56e2.pack" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/saymon-1.0.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/saymon-1.0.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/readme.txt" afterPath="$PROJECT_DIR$/clientjbpm/readme.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/Test.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/code/findbugs/jsr305/1.3.9/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/code/findbugs/jsr305/1.3.9/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_annotations/2.1.3/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_annotations/2.1.3/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_parent/2.1.3/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/errorprone/error_prone_parent/2.1.3/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/google/1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/google/1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/20.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/20.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/25.0-jre/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava-parent/25.0-jre/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/20.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/20.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/25.0-jre/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/guava/guava/25.0-jre/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/j2objc/j2objc-annotations/1.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/j2objc/j2objc-annotations/1.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-java/3.6.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-java/3.6.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-parent/3.6.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/google/protobuf/protobuf-parent/3.6.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-bom-ext/2.3.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-bom-ext/2.3.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-core/2.3.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-core/2.3.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-impl/2.3.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/jaxb-impl/2.3.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-bundles/2.3.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-bundles/2.3.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-parent/2.3.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/sun/xml/bind/mvn/jaxb-parent/2.3.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.10/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.10/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.11.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream-parent/1.4.11.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.10/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.10/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.11.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/thoughtworks/xstream/xstream/1.4.11.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/commons-codec/commons-codec/1.10/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/commons-codec/commons-codec/1.10/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/io/thorntail/bom/2.4.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/bom/2.4.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/io/thorntail/bom/2.4.0.Final/bom-2.4.0.Final.pom.lastUpdated" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/bom/2.4.0.Final/bom-2.4.0.Final.pom.lastUpdated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/io/thorntail/parent/11/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/parent/11/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/io/thorntail/parent/11/parent-11.pom.lastUpdated" afterPath="$PROJECT_DIR$/repo/jboss/io/thorntail/parent/11/parent-11.pom.lastUpdated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/javax/activation/activation/1.1.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/javax/activation/activation/1.1.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/junit/junit/4.12/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/junit/junit/4.12/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/net/java/jvnet-parent/5/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/net/java/jvnet-parent/5/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-master/3.5.2/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-master/3.5.2/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-runtime/3.5.2/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/antlr/antlr-runtime/3.5.2/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/apache/apache/13/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/13/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/apache/apache/15/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/15/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/apache/apache/19/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/apache/19/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-lang3/3.8.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-lang3/3.8.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-math3/3.4.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-math3/3.4.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/34/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/34/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/35/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/35/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/47/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/apache/commons/commons-parent/47/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/checkerframework/checker-compat-qual/2.0.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/checkerframework/checker-compat-qual/2.0.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/codehaus/codehaus-parent/4/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/codehaus-parent/4/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-annotations/1.14/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-annotations/1.14/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-parent/1.14/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/animal-sniffer-parent/1.14/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/mojo-parent/34/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/codehaus/mojo/mojo-parent/34/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/drools/drools-bom/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-bom/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/drools/drools-compiler/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-compiler/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/drools/drools-core/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools-core/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/drools/drools/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/drools/drools/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/eclipse/jdt/core/compiler/ecj/4.6.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/eclipse/jdt/core/compiler/ecj/4.6.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/glassfish/jaxb/jaxb-bom/2.3.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/glassfish/jaxb/jaxb-bom/2.3.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-core/1.3/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-core/1.3/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-parent/1.3/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/hamcrest/hamcrest-parent/1.3/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/javassist/javassist/3.21.0-GA/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/javassist/javassist/3.21.0-GA/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/arquillian-bom/1.1.13.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/arquillian-bom/1.1.13.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/selenium/selenium-bom/3.13.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/selenium/selenium-bom/3.13.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/selenium/selenium-bom/3.13.0/selenium-bom-3.13.0.pom.lastUpdated" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/arquillian/selenium/selenium-bom/3.13.0/selenium-bom-3.13.0.pom.lastUpdated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/errai/bom/errai-internal-bom/4.6.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/errai/bom/errai-internal-bom/4.6.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/25/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/25/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/31/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/jboss-parent/31/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-10/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-10/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.4/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.4/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/1.0.1.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/1.0.1.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/jbpm/jbpm-bom/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/jbpm/jbpm-bom/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api-parent/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api-parent/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-api/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/kie-bom/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-bom/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/kie-dmn-bom/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-dmn-bom/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/kie-internal/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-internal/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/kie-parent/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-parent/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/kie-user-bom-parent/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/kie-user-bom-parent/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-bom/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-bom/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-commons/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-commons/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-support/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-support/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-utils/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-maven-utils/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-parent/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-parent/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-api/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-api/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-commons/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel-commons/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/soup/kie-soup-project-datamodel/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/kie/uberfire/kie-uberfire-extensions-bom/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/kie/uberfire/kie-uberfire-extensions-bom/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.3.2.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.3.2.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.4.4.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/mvel/mvel2/2.4.4.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-bom/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-bom/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-core/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-core/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-common/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-common/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-jaxb/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence-jaxb/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner-persistence/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner/7.24.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/optaplanner/optaplanner/7.24.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/reflections/reflections/0.9.11/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/reflections/reflections/0.9.11/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-api/1.7.26/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-api/1.7.26/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-parent/1.7.26/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/slf4j/slf4j-parent/1.7.26/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/7/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/7/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/9/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/sonatype/oss/oss-parent/9/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/org/uberfire/uberfire-bom/2.21.0.Final/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/org/uberfire/uberfire-bom/2.21.0.Final/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/xmlpull/xmlpull/1.1.3.1/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/xmlpull/xmlpull/1.1.3.1/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/xpp3/xpp3_min/1.1.4c/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/xpp3/xpp3_min/1.1.4c/_remote.repositories" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysql.yml" afterPath="$PROJECT_DIR$/mysql.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/_remote.repositories" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml.sha1" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml.sha1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/maven-metadata-local.xml" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/maven-metadata-local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/resolver-status.properties" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/1.0.0-SNAPSHOT/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/maven-metadata-global-m2-repo.xml" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/maven-metadata-global-m2-repo.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/maven-metadata-global-m2-repo.xml.sha1" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/maven-metadata-global-m2-repo.xml.sha1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/maven-metadata-local.xml" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/maven-metadata-local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/resolver-status.properties" afterPath="$PROJECT_DIR$/repo/jboss/com/myspace/saymon/resolver-status.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -239,8 +374,18 @@
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jbpm-full-mysql.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -249,38 +394,8 @@
       <file leaf-file-name="mysql.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysql.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jbpm-full-mysql.ymlXXX" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.ymlXXX">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-boot-jbpm.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-jbpm.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -295,6 +410,7 @@
       <find>va</find>
       <find>val</find>
       <find>value</find>
+      <find>jbpm_connect_mysql</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -314,11 +430,13 @@
         <option value="$PROJECT_DIR$/clientjbpm/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/clientjbpm/src/main/java/com/config/Jbpm.java" />
         <option value="$PROJECT_DIR$/clientjbpm/readme.txt" />
-        <option value="$PROJECT_DIR$/mysql.yml" />
-        <option value="$PROJECT_DIR$/readme.txt" />
-        <option value="$PROJECT_DIR$/jbpm-full-mysql.yml" />
         <option value="$PROJECT_DIR$/clientjbpm/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/Test.java" />
+        <option value="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/TaskExecute.java" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/jbpm-full-mysql.yml" />
+        <option value="$PROJECT_DIR$/mysql.yml" />
       </list>
     </option>
   </component>
@@ -336,10 +454,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="162" />
-    <option name="y" value="35" />
-    <option name="width" value="3678" />
-    <option name="height" value="2125" />
+    <option name="x" value="81" />
+    <option name="y" value="25" />
+    <option name="width" value="1839" />
+    <option name="height" value="1175" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -357,8 +475,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -383,6 +501,144 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="clientjbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-jbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbpm_docker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientjbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-jbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbpm_docker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientjbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-jbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbpm_docker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientjbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-jbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbpm_docker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientjbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-jbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbpm_docker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientjbpm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -847,14 +1103,21 @@
       <workItem from="1566587656256" duration="1869000" />
       <workItem from="1566592121573" duration="102000" />
       <workItem from="1566594436295" duration="1509000" />
+      <workItem from="1566647364280" duration="796000" />
+      <workItem from="1566951480004" duration="2621000" />
+      <workItem from="1566999677169" duration="1417000" />
+      <workItem from="1567113641470" duration="867000" />
+      <workItem from="1567900692551" duration="196000" />
+      <workItem from="1567978966119" duration="4173000" />
+      <workItem from="1568040922347" duration="1132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41749000" />
+    <option name="totallyTimeSpent" value="52951000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="162" y="35" width="3678" height="2125" extended-state="6" />
+    <frame x="81" y="25" width="1839" height="1175" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -867,11 +1130,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983425" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32973504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14373259" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25209147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980502" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -887,7 +1151,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -905,7 +1168,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/jbpm/spring/boot/Evaluation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/jbpm/spring/boot/ExampleprocessIdprocessId.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/jbpm/spring/boot/ProcessDefController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/jbpm/spring/boot/ProcessInstanceController.java" />
@@ -1077,23 +1339,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dockerfile" />
-    <entry file="file://$PROJECT_DIR$/clientjbpm/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/clientjbpm/src/main/java/com/DemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -1112,13 +1360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientjbpm/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/40884eb4-b0d3-47e6-a7b4-786d74785985/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1127,13 +1368,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jbpm-full-mysql (copy)withEcologicalpaper.yml" />
-    <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/clientjbpm/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1145,38 +1379,71 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.ymlXXX" />
+    <entry file="file://$PROJECT_DIR$/clientjbpm/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientjbpm/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="95" column="119" lean-forward="false" selection-start-line="95" selection-start-column="110" selection-end-line="95" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/TaskExecute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysql.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.ymlXXX">
+    <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        <state relative-caret-position="144">
+          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="38" />
           <folding />
         </state>
       </provider>
