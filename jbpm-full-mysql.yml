@@ -23,8 +23,8 @@
 version: '3'
 services:
   jbpm:
-  #   image: jboss/jbpm-server-full:7.25.0.Final
-    image: jboss/jbpm-server-full
+    image: jboss/jbpm-server-full:7.25.0.Final
+   # image: jboss/jbpm-server-full
     container_name: jbpm_connect_mysql
     #build: .
     environment:

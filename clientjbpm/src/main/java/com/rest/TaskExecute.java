@@ -4,9 +4,11 @@ import org.kie.server.api.model.KieContainerResource;
 import org.kie.server.api.model.KieContainerResourceList;
 import org.kie.server.api.model.KieServerInfo;
 import org.kie.server.api.model.ReleaseId;
+import org.kie.server.api.model.instance.ProcessInstance;
 import org.kie.server.api.model.instance.TaskSummary;
 import org.kie.server.client.KieServicesClient;
 import org.kie.server.client.ProcessServicesClient;
+import org.kie.server.client.QueryServicesClient;
 import org.kie.server.client.UserTaskServicesClient;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -35,48 +37,79 @@ public class TaskExecute {
     private ProcessServicesClient processServicesClient;
     @Inject
     private UserTaskServicesClient userTaskServicesClient;
-    public void newInstancia(){
+    @Inject
+    private QueryServicesClient queryServicesClient;
+
+
+/**Instancia la primera task of example evaluation*/
+    @RequestMapping(value = "/query",method = RequestMethod.GET)
+    public ResponseEntity<?> query() {
         Map<String, Object> variables = new HashMap<>();
+
+        variables.put("employee","wbadmin");
+        variables.put("reason","TODO UN EXITO SAYMOSN!!");
+        variables.put("performance","110");
+        variables.put("initiator","wbadmin");
         Long processInstanceId = null;
 
-        //Name of container first : saymon_1.0.0-SNAPSHOT
-        //Id of jbpm : saymon.sencillo
-        processInstanceId = processServicesClient.startProcess("saymon_1.0.0-SNAPSHOT",
-                "saymon.sencillo", variables);
 
-        System.out.println("processInstanceId = " + processInstanceId);
-        listCapabilities();
-        listContainers();
+        /**Mapeamos el containr 'evaluation_1.0.0-SNAPSHOT' y el id del jbpm 'evaluation' para obtener el id del
+         * proceso instance*/
+        processInstanceId = processServicesClient.startProcess("evaluation_1.0.0-SNAPSHOT",
+                "evaluation", variables);
+
+        /***Obtenemos la instancia*/
+        ProcessInstance processInstance = queryServicesClient.findProcessInstanceById(processInstanceId);
+        System.out.println("processInstanceId = " + processInstanceId + ", status = " + processInstance.getState());
+        /**Obtenemos las tareas de la instancia**/
+        TaskSummary task = processInstance.getActiveUserTasks().getItems().get(0);
+        /**Imprimimos el status*/
+        System.out.println(task.getStatus() + " = status, " + task.getId() + " = " + task.getName() + ",owner=" + task.getActualOwner() + "");
+
+        /**Liberamos la tarea.. alcomienzo siempre va a tener la tarea ya claim.. la liberamos para volverla
+         * a claim en el contexto*/
+        userTaskServicesClient.releaseTask(task.getContainerId(), task.getId(), "wbadmin");
+        /***Obtenemos la instancia  actualizada*/
+        processInstance = queryServicesClient.findProcessInstanceById(processInstanceId);
+        /**Obtenemos las tareas de la instancia actualizada**/
+        task = processInstance.getActiveUserTasks().getItems().get(0);
+        System.out.println(task.getStatus() + " = status, " + task.getId() + " = " + task.getName() + ",owner=" + task.getActualOwner() + "");
+
+        /**Claim la tarea en el contexto*/
+        userTaskServicesClient.claimTask(task.getContainerId(), task.getId(), "wbadmin");
+        /***Obtenemos la instancia  actualizada*/
+        processInstance = queryServicesClient.findProcessInstanceById(processInstanceId);
+        /**Obtenemos las tareas de la instancia actualizada**/
+        task = processInstance.getActiveUserTasks().getItems().get(0);
+        System.out.println(task.getStatus() + " = status, " + task.getId() + " = " + task.getName() + ",owner=" + task.getActualOwner() + "");
+
+        /**startTask la tarea en el contexto*/
+        userTaskServicesClient.startTask(task.getContainerId(), task.getId(), "wbadmin");
+        /***Obtenemos la instancia  actualizqada*/
+        processInstance = queryServicesClient.findProcessInstanceById(processInstanceId);
+        /**Obtenemos las tareas de la instancia actualizada**/
+        task = processInstance.getActiveUserTasks().getItems().get(0);
+        System.out.println(task.getStatus() + " = status, " + task.getId() + " = " + task.getName() + ",owner=" + task.getActualOwner() + "");
 
 
-        //import org.kie.server.api.model.instance.TaskSummary;
-        List<TaskSummary> t = userTaskServicesClient.findTasksAssignedAsBusinessAdministrator("", 0,0);
+        /**completamos la tarea en el contexto*/
+        userTaskServicesClient.completeTask(task.getContainerId(), task.getId(), "wbadmin",  variables);
+        /***Obtenemos la instancia  actualizqada*/
+        processInstance = queryServicesClient.findProcessInstanceById(processInstanceId);
+        /**Obtenemos las tareas de la instancia actualizada**/
+        task = processInstance.getActiveUserTasks().getItems().get(0);
+        System.out.println(task.getStatus() + " = status, " + task.getId() + " = " + task.getName() + ",owner=" + task.getActualOwner() + "");
 
-        t.stream().forEach((p)->{
-            System.out.println(p.getId() + " = " + p.getName() + "," + p.getCreatedBy() + "");
-            //String containerId, Long taskId, String userId
-            userTaskServicesClient.claimTask("saymon_1.0.0-SNAPSHOT",p.getId(),"simon");
-            System.out.println("Claim task");
-            userTaskServicesClient.startTask("saymon_1.0.0-SNAPSHOT",p.getId(),"simon");
-            System.out.println("Start task");
-            Map<String, Object> params = new HashMap<>();
-            userTaskServicesClient.completeTask("saymon_1.0.0-SNAPSHOT",p.getId(),"simon", params);
-            System.out.println("Finish task");
-            //claimTask(String containerId, Long taskId, String userId);
-            // void startTask(String containerId, Long taskId, String userId);
+
+        processInstance.getActiveUserTasks().getItems().stream().forEach((taskjob)-> {
+            System.out.println(taskjob.getStatus() + " = status, " + taskjob.getId() + " = " + taskjob.getName() + "," + taskjob.getCreatedBy() + "");
         });
-/*
-        Long taskIdCrearReq = userTaskClient.get
 
-        // Tomo la tarea
-        taskService.claim(taskIdCrearReq, "fluxit4");
 
-        // Comienzo la tarea
-        taskService.start(taskIdCrearReq, "fluxit4");
-
-        // Completo la tarea
-        taskService.complete(taskIdCrearReq, "fluxit4", params);*/
+        return new ResponseEntity<>("Hi ", HttpStatus.CREATED);
     }
+
+
 
     //Server Capabilities
     public void listCapabilities() {
@@ -100,29 +133,5 @@ public class TaskExecute {
             System.out.println("\t" + container.getContainerId() + " (" + container.getReleaseId() + ")");
         }
     }
-    @RequestMapping(value = "/instance",method = RequestMethod.GET)
-    public ResponseEntity<?> newInstanciaMethod() {
-        newInstancia();
-        return new ResponseEntity<>("new instance.. ", HttpStatus.CREATED);
-    }
 
-/*    public  void newDeploy() {
-        *//**
-         *
-
-         <groupId>com.myspace</groupId>
-         <artifactId>saymon</artifactId>
-         <version>1.0.0-SNAPSHOT</version>
-         * *//*
-        String containerId = "saymon_1.0.0-SNAPSHOT";
-        System.out.println("\t######### Deploying container " + containerId);
-        KieContainerResource resource = new KieContainerResource(containerId, new ReleaseId("com.myspace", "saymon", "1.0.0-SNAPSHOT"));
-        kieServicesClient.createContainer(containerId, resource);
-    }
-
-    @RequestMapping(value = "/newDeploy",method = RequestMethod.GET)
-    public ResponseEntity<?> deploy() {
-        newDeploy();
-        return new ResponseEntity<>("new deploy.. ", HttpStatus.CREATED);
-    }*/
 }
