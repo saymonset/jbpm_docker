@@ -20,6 +20,7 @@ import org.kie.server.api.model.ReleaseId;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import java.util.Date;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -82,6 +83,9 @@ public class Jbpm {
 
     public   void initializeKieServerClient() {
         conf = KieServicesFactory.newRestConfiguration(URL, USER, PASSWORD);
+        Set<Class<?>> extraClasses = new HashSet<Class<?>>();
+        extraClasses.add(Date.class); // for JSON only to properly map dates
+        extraClasses.add(com.test.WorkItemHandlerSimon.class);
         conf.setMarshallingFormat(MarshallingFormat.JAXB);
         kieServicesClient = KieServicesFactory.newKieServicesClient(conf);
 

@@ -1,10 +1,17 @@
 package com.rest;
 
+import org.kie.api.runtime.query.QueryContext;
+import org.kie.internal.KieInternalServices;
+import org.kie.internal.process.CorrelationKey;
+import org.kie.remote.client.api.RemoteRestRuntimeEngineBuilder;
+import org.kie.remote.client.api.RemoteRuntimeEngineFactory;
 import org.kie.server.api.model.KieContainerResource;
 import org.kie.server.api.model.KieContainerResourceList;
 import org.kie.server.api.model.KieServerInfo;
 import org.kie.server.api.model.ReleaseId;
+import org.kie.server.api.model.definition.QueryDefinition;
 import org.kie.server.api.model.instance.ProcessInstance;
+import org.kie.server.api.model.instance.TaskInstance;
 import org.kie.server.api.model.instance.TaskSummary;
 import org.kie.server.client.KieServicesClient;
 import org.kie.server.client.ProcessServicesClient;
@@ -21,7 +28,8 @@ import javax.inject.Inject;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+import org.kie.api.KieServices;
+import org.kie.api.logger.KieRuntimeLogger;
 /**
  *
  * Para refrescar el jbpmn ultimo... debes desplegarlo en buiness-central deploy
@@ -41,25 +49,91 @@ public class TaskExecute {
     private QueryServicesClient queryServicesClient;
 
 
-/**Instancia la primera task of example evaluation*/
+    /**Instancia la primera task of example evaluation*/
+    @RequestMapping(value = "/workItemHandler",method = RequestMethod.GET)
+    public ResponseEntity<?> workItemHandlerCall() {
+
+        Map<String, Object> variables = new HashMap<>();
+
+        Long processInstanceId = null;
+        processInstanceId = processServicesClient.startProcess("evaluation_1.0.0-SNAPSHOT",
+                "Evaluation_Process.Cust_WIH_Process", variables);
+
+        /***Obtenemos la instancia*/
+        ProcessInstance processInstance = queryServicesClient.findProcessInstanceById(processInstanceId);
+
+        System.out.println("processInstanceId = " + processInstanceId + ", status = " + processInstance.getState());
+        return new ResponseEntity<>("Hi ", HttpStatus.CREATED);
+    }
+
+
+    /**Instancia la primera task of example evaluation*/
+    @RequestMapping(value = "/rest",method = RequestMethod.GET)
+    public ResponseEntity<?> newForm() {
+
+        Map<String, Object> variables = new HashMap<>();
+
+        Long processInstanceId = null;
+
+
+        /***Obtenemos la instanciacon sus variables colocando la bandera en true*/
+        ProcessInstance processInstance = queryServicesClient.findProcessInstanceById(2l,true);
+        //    Integer state = org.kie.api.runtime.process.ProcessInstance.STATE_COMPLETED;
+//
+
+        List<QueryDefinition> queryDefs = queryServicesClient.getQueries(0, 10);
+        System.out.println(queryDefs);
+
+        QueryDefinition query = new QueryDefinition();
+        query.setName("getAllTaskInstancesWithCustomVariables");
+        query.setTarget("CUSTOM");
+        query.setSource("java:jboss/datasources/jBPMDS");
+        query.setExpression("select ti.* " +
+                "from AuditTaskImpl ti ");
+
+        queryServicesClient.replaceQuery(query);
+        List<TaskInstance> tasks0 = queryServicesClient.query("getAllTaskInstancesWithCustomVariables","UserTasks", 0, 10, TaskInstance.class);
+        System.out.println(tasks0);
+
+        // queryServicesClient.findVariablesCurrentState
+        /**Obtenemos las tareas de la instancia**/
+        List<TaskSummary> tasks = processInstance.getActiveUserTasks().getItems();
+        tasks.forEach(task->{
+            /**Imprimimos el status*/
+
+            TaskInstance tall = userTaskServicesClient.findTaskById(task.getId());
+            Map<String, Object>  variablesI =  tall.getInputData();
+            Map<String, Object>  variablesO =  tall.getOutputData();
+            System.out.println(task.getStatus() + " = status, " + task.getId() + " = " + task.getName() + ",owner=" + task.getActualOwner() + "");
+
+
+        });
+        return new ResponseEntity<>("Hi ", HttpStatus.CREATED);
+    }
+
+
+    /**Instancia la primera task of example evaluation*/
     @RequestMapping(value = "/query",method = RequestMethod.GET)
     public ResponseEntity<?> query() {
         Map<String, Object> variables = new HashMap<>();
 
         variables.put("employee","wbadmin");
-        variables.put("reason","TODO UN EXITO SAYMOSN!!");
-        variables.put("performance","110");
+        variables.put("reason","OKOKOKO SAYMOSN!!");
+        variables.put("performance","7883");
         variables.put("initiator","wbadmin");
         Long processInstanceId = null;
 
 
         /**Mapeamos el containr 'evaluation_1.0.0-SNAPSHOT' y el id del jbpm 'evaluation' para obtener el id del
          * proceso instance*/
+        String key = "simonskey";
+     //   CorrelationKey correlationKey = KieInternalServices.Factory.get().newCorrelationKeyFactory().newCorrelationKey(key);
         processInstanceId = processServicesClient.startProcess("evaluation_1.0.0-SNAPSHOT",
                 "evaluation", variables);
 
         /***Obtenemos la instancia*/
         ProcessInstance processInstance = queryServicesClient.findProcessInstanceById(processInstanceId);
+
         System.out.println("processInstanceId = " + processInstanceId + ", status = " + processInstance.getState());
         /**Obtenemos las tareas de la instancia**/
         TaskSummary task = processInstance.getActiveUserTasks().getItems().get(0);
