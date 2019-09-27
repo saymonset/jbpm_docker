@@ -2,208 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c141d0aa-6632-4a68-bb54-b621416d0096" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/40884eb4-b0d3-47e6-a7b4-786d74785985.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/05/58d45e55527b71deff54db14dcc1c0bc7ad537" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/1c/68668f97f0e2a8f3b0908c1e00bc9b493bca95" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/1f/6e794d1e4b9cbe243f02f242611bc8044a9baf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/40/d4d00afa9fa121c3e7bfcf3be5d6d51633a713" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/54/e2c8749aa7dcadd39e94696c4773a48184c1dd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/58/049c9ec49e2fbae8b4d8c3d14beb2e1db614ac" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/73/54ac3b78bdd576badb8aaa007a4ae591d2871e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/c2/19ecfd07cfeb65b4cc9b07ae08751b6a0df64f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/e3/2e67f66aae67ead697e85ee63a87bdafeaf7a4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/02/20b1f664d538f2482170317287e71e4859ab03" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/03/d577e92577c987aca6d0e8614a2f23b3dabf34" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/05/77c5de7c18fd0662e114306e1b16d3c33a9be3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/06/7c5abcfaffbe45f2c4ca6ee0a2756d4d7c670b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/07/10c59b5d66454285a88a098e924431456b4a68" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/23/7ba941f00803e2c86ec56038b64839a327aa12" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/29/b215c596ea73223830d07124139b7a4ded83b7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/2d/853845d5516dceabbb3ef44843608b34e48aca" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/2e/bb3e3e5b5228369de2753a5ea80906d966e028" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/3c/25d8816617499d1a7f15197f38d7b076061d48" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/44/54be12aa21fd5bd821bc8e6df8901a91367b90" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/47/b030b096d2ba99efe62b6c9f438e7f22b79730" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/59/6ed050e9fb5e44581dbb0f4c7f7321d2b7ac53" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/5b/b455ddcc1938d915fd9e58d1bb3d8555b706a7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/5c/3a726dd7c7e90ad02627dc84fb329b9821dce2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/67/180092841add14a78e5d2313b57d4300b09041" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/6a/0a0c8959a2069cea781d5c3331998c2e3f622c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/6a/2e174a224ed9d1ff95da88e1e4690aaa60e5be" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/72/fbd51b931c8b19eaecc7c4be68481d056199e3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/7a/eb7600b2d2e93e136db1d5b7926865303078c1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/7f/582d2c53e60cfc4f3d143e9e5d689cff1ca49d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/88/7c7e2e53ea08e1b318783bde8cdb5cdf88820f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/8e/a8707d312c3069eb8c94854de98a0c6499aec4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/98/5381292b8e53d15beec23dba97d72cf34726ae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/99/91b0205cfe452874dae9e994d7a5d0131ac759" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/9a/5e650ccd0df8c95acc9b9531004ba027aa95eb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/9a/e303667e22d2a67848db06b3e771c1328e408a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/a2/a12553951dff1224eaf9e1fa761eccb289f3ad" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/a3/ca0ec505cffe5689a58f4b49e43ddc307b991d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/a8/9fe652222f1464ee1e701d9505d2c0da0b3bb1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/c8/89c7d438688fd0062bd0198dd026c7deaae281" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/d5/64d0bc3dd917926892c55e3706cc116d5b165e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/dc/228f3658834207e6ed8da50ff81b44d0ff170e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/de/50bf30e06666785b38989b266f627b6f510bf9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/ee/dfdc39dc0757f6ac32b131aead63fa61393fae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/f0/11df2de05e5f30c84d5ccde47e7f27ce8687c1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/f7/50fcb4b1f84ae1aa9b4c4f3d8ea712923d79b7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/f9/2ad38e1476ba49967b28cb37377c6f0755dd1a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/objects/fc/d1fd198d1b6b64ac3d33108d6a3b7e54906bac" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/example-Evaluation_Process.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/.config/config.git/objects/32/ef9e0b7c89660cc30c0ae37881d80eadc71570" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/.config/config.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/.config/config.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/.config/config.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/07/7dc4928374b7a36af9dbf3b2497686e3def0ec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/0b/15d5f45585b357616b409603cb7a96c4f5881d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/0d/dfdbf49ab6f30c862b95f255eb012e447d67f1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/0e/5bb5b735ad8f95e2b1458b69f20c7bb8e89c4b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/0f/8c95cd2c48e40cc20c00cf07abd6c9d4c39902" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/14/07a3f73abddea9e0377badee496401ae4838ee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/14/35b7a42d0079576f46049e089b15fa11e83cb8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/14/df2a8ba8abc78eceaf28a341013012effa2869" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/18/ea4dbe5bcd74c7a770c43cbdb0f5b04166e824" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/1a/50223f6543ddc8c31c844e3cc3bf04b9326746" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/1d/a35da0da2b874b894861ded47041256a733601" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/23/b0f2eba8c3236e2aecc2feca92c24153d57f19" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/24/3241e93e5669bbef1ece3a271dcd034820db92" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/24/e07ad9150d2f8b62b388d5d64d7956337c3e2d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/2b/e46a9d08353876b5a01fd635285b3aacfc9d8a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/30/9fb4b853b082fa0abbd142660dab07e1373543" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/31/55567d52c0724a34c947b99136015ed8f88318" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/37/6e547ed4812058e1e33423146d8baa9f57df97" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/38/0d7fffe1c334fccfc4262f1d998a0efa987370" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/40/1853292ead03ae3aa77445093342af55e815ea" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/48/e39a29db51d24540bc1fb33691bcc0a894e5f1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/4d/419612daabfa04d770421179e4d388315b0eec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/5c/90a2dad0f2d94908caec595369ae46a2574544" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/63/1ae94b06e9e13d33f0acd5ef0a6e0b4c4b7909" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/6d/af705d3149fbb5b1009be82af071e884d42f67" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/6f/3cf2cacd1ef30feab1e95ec026e440c939fd59" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/72/3d47c6cec3de3bc0156dac08e2ba12cfc9ba2f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/73/7bc9b214dfd2f09df6f2fe0b88db30ab9712a3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/7e/d6ed9d9683fa9ffa872fb66275d803e278a6d3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/7f/925a387a2ca3ca7d219996d8db3b88a79b783e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/8d/7539dae157413479b12937fae665d8e7aa3f24" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/8e/6c6be74b775c97cb23cd59fde37007c3d90640" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/94/0f00af4082813d5973d774c268aa3e53d2d22b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/94/97a160bf368dd9a2716f326ee3be9e395fb3a4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/95/7acf68b4adf04069c96aa88a273b5b6ca3d628" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/98/b33d4dbcd8d7763f801b9935a810719cb8885f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/a0/e9f8e7275ae49a5a54c716570025ac4ed62ccf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/a4/62b8fb77077d5f720bdc7b31ddf6299519f973" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/a6/ca8dcd2b7bbfa59e4c7b47e97f1aa9b947e4b7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/a7/5bb6abd8a8fd27eeb0955b9708d17648c59e1a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/af/0a659d615f6538870978d6f63a8c39fda5a9bf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/b0/946acd89a948a3ebd070e7e5f4680497455bc3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/b1/e2da68d8ea4631c7ebac593277308fb6a5f6a2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/b7/a001931d2794899c22ab0eb1244b8249b507b6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/b8/52633bb5fc60496fbcc5d14abfe44928fc6aff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/e3/1511ab5c67e7103737cb74e7642c6f6cac8e54" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/ed/2e9681b401fc649dca567a6ccd0e3bc8294f4b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/ef/d5359bcf9ef46e7f02ee87b76d74046ccc9444" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/f9/309461d31a916a41c11d50d1dadaa2b11d9fb9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/navigation.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/navigation.git/objects/94/0f00af4082813d5973d774c268aa3e53d2d22b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/navigation.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/navigation.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/perspectives.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/perspectives.git/objects/94/0f00af4082813d5973d774c268aa3e53d2d22b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/perspectives.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/perspectives.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/3b/972d74815cfcc59dcbd159aecbcc1c3117fcb2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/datasources.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/32/ef9e0b7c89660cc30c0ae37881d80eadc71570" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/3b/4d338a716f077960559126a690e5a04e343523" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/51/85c1dec49ba02b86d94ff1ac6f764c22d7f178" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/59/9ff62fd534ec16de68a69d9b75452df8a1fef0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/94/0f00af4082813d5973d774c268aa3e53d2d22b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/plugins.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/01/67955465bfea671380af2883a09c8de50c9c87" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/0d/bd817d6138b67f34469fec1701b1c62f043ca8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/14/3a6a1d0a4ee55ad15545833c9b538948a51f7e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/17/59f7660f6f8aa05aa1044d7c412ad1fbe12e6e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/35/79f70ee4234b697c09585c9185196edd64a4cb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/45/f9786697c7b3f7be0affcaef874ef7ea308f89" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/48/5643058929632ef8cbc15739e636d6c6d27432" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/56/3afba1912ca196c5b2ac109dd500baa049a9f8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/5b/b118fe2c4ec95a474b59595c9c312d9c033b57" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/65/327f3f65634e04e5160ac8eeaec1beeb198891" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/67/12e50ee7271896d763f4886fb711b08302e808" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/67/59c150726c54cb777c96c38f2eca770ad8382d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/6f/98c31dbf8cac9a4df7d65da457613cdc93638c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/71/5dbab306358b617b5229837425fe4680ec219a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/7a/2fcf8fd2499d1a4b7c4ff7a6f40b4affdc7701" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/83/d5b5918fcc999fe7de91c33c57cf0663b94539" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/87/73e2579f30757e765affe8795668bd29c5458d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/95/479c7b33b89a57d11bb00740d89d5744d800c3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/9a/68acb3f83043a6bb77954f7daeda81608e792d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/9d/6ede6a5fb240b2f2cd6ab77df9cc13b7302ed7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/9d/c0da03143367f4863e4ee3f1238093c4a79164" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/af/a4b6c4f33280ba96624d4d528f49146cf0623b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/b3/1065b20292268bc4f9fb5426af508a5befc0e6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/ba/e7788844c641771cbcf9273e50db29fde1f72a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/cb/355fab4a12ff245562457efca5047652b0dabb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/db/acb5f72f2b5705f77a9cd6c386ae1c80b243ca" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/df/9b28a6495be9af54cb3acca0097a0e3d8ef4b3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/ed/239bd68e4af47a9b308acd21348eea52aecb46" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/f6/fe06222ea768b52d556977f8646ef95f35b24c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/fe/48328c3fe7455136acd8681ec09fbd63526ff1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/00/83e4aafba2d529e5638d37236d1c32e35d8567" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/32/ef9e0b7c89660cc30c0ae37881d80eadc71570" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/40/bc5878d6ebb35d6015a5dd215ff8f0cc00d571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/58/056a2ccb73f15b08d7502b3b485ffa4103c6d8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/94/2a3edf961193bf806d81aefb84737ceebb452c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/9d/a33875873b794e8b2a2290f577837bee175030" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/objects/dd/fca1c0a573ab8a5b2df4c8b557f635834813bc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/security.git/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-5445cc9db3b81031724f34ecf0b0c92ff252adbb.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-5445cc9db3b81031724f34ecf0b0c92ff252adbb.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-5445cc9db3b81031724f34ecf0b0c92ff252adbb.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-5f3d76cdb774c941deef58228990a4f800fb85ba.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-5f3d76cdb774c941deef58228990a4f800fb85ba.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-5f3d76cdb774c941deef58228990a4f800fb85ba.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-9a3cb4634edd3ba10aa9fe12070e6f6208efeee1.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-9a3cb4634edd3ba10aa9fe12070e6f6208efeee1.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-9a3cb4634edd3ba10aa9fe12070e6f6208efeee1.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-f607d6098cd1d884b58661de4b53a9dd2448dc93.bitmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-f607d6098cd1d884b58661de4b53a9dd2448dc93.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-f607d6098cd1d884b58661de4b53a9dd2448dc93.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/src/main/java/com/DemoApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/src/main/java/com/config/Jbpm.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/src/main/java/com/config/JbpmConstants.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/src/main/java/com/config/WissenJBPMServicesClientBuilder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/src/main/java/com/config/WissenQueryServicesClientImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/src/main/java/com/rest/TaskExecute.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/src/main/java/com/rest/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm (copy)/src/test/java/com/example/demo/DemoApplicationTests.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/refs/heads/master" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/evaluation-1.0.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/evaluation-1.0.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/build.gradle" afterPath="$PROJECT_DIR$/clientjbpm/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/classes/production/clientjbpm/application.properties" afterPath="$PROJECT_DIR$/clientjbpm/classes/production/clientjbpm/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/config/Jbpm.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/config/Jbpm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/TaskExecute.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/TaskExecute.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/_remote.repositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/evaluation-1.0.0-SNAPSHOT.pom" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/evaluation-1.0.0-SNAPSHOT.pom" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/maven-metadata-local.xml" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/maven-metadata-local.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/resolver-status.properties" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/1.0.0-SNAPSHOT/resolver-status.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/maven-metadata-global-m2-repo.xml" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/maven-metadata-global-m2-repo.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/maven-metadata-local.xml" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/maven-metadata-local.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/resolver-status.properties" afterPath="$PROJECT_DIR$/repo/jboss/evaluation/evaluation/resolver-status.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/refs/heads/master" afterPath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/refs/heads/master" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -270,7 +94,7 @@
       <file leaf-file-name="jbpm-full-mysql.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
+            <state relative-caret-position="540">
               <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
               <folding />
             </state>
@@ -279,135 +103,135 @@
       </file>
       <file leaf-file-name="jbpm.VariableInstanceLog" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.VariableInstanceLog">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jbpm.Task" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Task">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jbpm.TaskVariableImpl" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.TaskVariableImpl">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jbpm.QueryDefinitionStore" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.QueryDefinitionStore">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jbpm.CaseFileDataLog" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseFileDataLog">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jbpm.BooleanExpression" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.BooleanExpression">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jbpm.BAMTaskSummary" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.BAMTaskSummary">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jbpm.AuditTaskImpl" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.AuditTaskImpl">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jbpm.Attachment" pinned="false" current-in-tab="false">
         <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Attachment">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -486,6 +310,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -514,13 +341,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="/media/simon/OS/ar/wissen/wissen-backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clientjbpm" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -984,12 +808,13 @@
       <workItem from="1567978966119" duration="4173000" />
       <workItem from="1568040922347" duration="1132000" />
       <workItem from="1569439483389" duration="6869000" />
-      <workItem from="1569505985845" duration="7312000" />
+      <workItem from="1569505985845" duration="7877000" />
+      <workItem from="1569592062696" duration="764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70011000" />
+    <option name="totallyTimeSpent" value="71340000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1015,10 +840,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5063788" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50736016" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26770777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2710541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34244284" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1090,561 +915,557 @@
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.WorkItemInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.TaskEvent">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.TaskDef">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.task_comment">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.SessionInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.RequestInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Reassignment_potentialOwners">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Reassignment">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ProcessInstanceLog">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ProcessInstanceInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_Stakeholders">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_Recipients">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_PotOwners">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_ExclOwners">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.OrganizationalEntity">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_BAs">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification_Recipients">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification_email_header">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification_BAs">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.NodeInstanceLog">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.I18NText">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ExecutionErrorInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.EventTypes">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Escalation">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ErrorInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.email_header">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.DeploymentStore">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Delegation_delegates">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Deadline">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CorrelationPropertyInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CorrelationKeyInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ContextMappingInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Content">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseRoleAssignmentLog">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseIdInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseFileDataLog">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.BooleanExpression">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.BAMTaskSummary">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.AuditTaskImpl">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Attachment">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.QueryDefinitionStore">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.VariableInstanceLog">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Task">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.TaskVariableImpl">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
+        <state relative-caret-position="540">
           <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
           <folding />
         </state>
