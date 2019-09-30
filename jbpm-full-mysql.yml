@@ -14,7 +14,7 @@
 #
 #Windows: > jboss-cli.bat --connect command=:shutdown
 #
-#Restart
+#Restart  7.27.0.Final
 #Linux: $ ./jboss-cli.sh --connect command=:reload
 #
 #Windows: > jboss-cli.bat --connect command=:reload
@@ -23,6 +23,7 @@
 version: '3'
 services:
   jbpm:
+    #image: jboss/jbpm-server-full:7.26.0.Final
     image: jboss/jbpm-server-full:7.25.0.Final
    # image: jboss/jbpm-server-full
     container_name: jbpm_connect_mysql

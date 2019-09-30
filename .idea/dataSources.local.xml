@@ -11,5 +11,15 @@
       <user-name>jbpm</user-name>
       <introspection-schemas>*:jbpm</introspection-schemas>
     </data-source>
+    <data-source name="jbpm@172.16.238.11" uuid="9d2a8fa2-665e-4fcb-bfda-c067cc8e2db6">
+      <database-info product="MySQL" version="5.5.61-MariaDB-1~trusty" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>jbpm</user-name>
+      <introspection-schemas>*:jbpm</introspection-schemas>
+    </data-source>
   </component>
 </project>

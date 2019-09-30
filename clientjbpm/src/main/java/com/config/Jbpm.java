@@ -86,6 +86,8 @@ public class Jbpm {
         Set<Class<?>> extraClasses = new HashSet<Class<?>>();
         extraClasses.add(Date.class); // for JSON only to properly map dates
         extraClasses.add(com.test.WorkItemHandlerSimon.class);
+        extraClasses.add(com.Person.class);
+        conf.addJaxbClasses(extraClasses);
         conf.setMarshallingFormat(MarshallingFormat.JAXB);
         kieServicesClient = KieServicesFactory.newKieServicesClient(conf);
 
