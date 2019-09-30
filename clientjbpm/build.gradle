@@ -43,5 +43,9 @@ dependencies {
 	compile group: 'javax.inject', name: 'javax.inject', version: '1'
 	compile group: 'io.springfox', name: 'springfox-swagger2', version: '2.7.0'
 	compile group: 'io.springfox', name: 'springfox-swagger-ui', version: '2.7.0'
+	compile 'org.apache.httpcomponents:httpclient:4.5.10'
+	// https://mvnrepository.com/artifact/com.alibaba/fastjson
+	compile group: 'com.alibaba', name: 'fastjson', version: '1.1.25'
+
 //
 }
