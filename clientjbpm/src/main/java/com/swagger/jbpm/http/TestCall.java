@@ -1,4 +1,4 @@
-package com.swagger.jbpm;
+package com.swagger.jbpm.http;
 
 import org.apache.http.util.EntityUtils;
 import org.slf4j.Logger;
@@ -7,7 +7,6 @@ import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClientBuilder;
-import org.apache.http.util.EntityUtils;
 
 import javax.annotation.Resource;
 
@@ -15,8 +14,8 @@ import javax.annotation.Resource;
  * Created by simon on 30/09/19.
  */
 @Resource
-public class KieServerContainer {
-    private static final Logger logger = LoggerFactory.getLogger(KieServerContainer.class);
+public class TestCall {
+    private static final Logger logger = LoggerFactory.getLogger(TestCall.class);
 
     public static void getTaskSummaryList() throws Exception {
         String status = "Reserved";
