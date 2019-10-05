@@ -1,4 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Sep 25 21:40:33 UTC 2019
-@default-jboss-public-repository-group-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1569447633229
-https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.kie.soup\:kie-soup-maven-support\:jar\:7.25.0.Final from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public/)\: repository.jboss.org
