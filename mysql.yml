@@ -3,7 +3,8 @@
 #docker-compose -f mysql.yml up --build -d --remove-orphans
 
 #docker exec -it mysql bash
-
+#Fix ERROR: Pool overlaps with other one on this address space
+#docker network ls -q | xargs docker network rm
 
 version: '3'
 services:

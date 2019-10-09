@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 08 18:24:18 UTC 2019
+@default-jboss-public-repository-group-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1570558640584
+https\://repo.maven.apache.org/maven2/.lastUpdated=1570559058222
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:jar\:3.8.1 from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public/)\: repository.jboss.org

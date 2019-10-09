@@ -20,14 +20,15 @@
 #
 #Windows: > jboss-cli.bat --connect command=:reload
 #- ./repo/wb_git:/opt/jboss/wildfly/bin/.niogit:Z
-
+#Fix ERROR: Pool overlaps with other one on this address space
+#docker network ls -q | xargs docker network rm
 version: '3'
 services:
   jbpm:
     #image: jboss/jbpm-server-full:7.26.0.Final
     image: jboss/jbpm-server-full:7.25.0.Final
    # image: jboss/jbpm-server-full
-    container_name: jbpm_connect_mysql
+    container_name: jbpm_7_25
     #build: .
     environment:
       JBPM_DB_DRIVER: mysql
@@ -36,7 +37,6 @@ services:
       JBPM_DB_NAME: jbpm
       JBPM_DB_USER: root
       JBPM_DB_PASSWORD: 123456
-      KIE_SERVER_ID: saymon_jbpm_id
     ports:
     - 8180:8080
     - 8001:8001
@@ -47,6 +47,7 @@ services:
 networks:
   default:
     external:
-      name: jbpm_docker_app_net
+       #name: jbpm_docker_app_net
+       name: survey-all_app_net
 
 

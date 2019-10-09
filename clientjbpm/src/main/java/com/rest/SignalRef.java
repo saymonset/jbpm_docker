@@ -49,9 +49,9 @@ public class SignalRef {
         variables.put("user","wbadmin");
 
         processInstanceId = 5l;
-     /*   processInstanceId = processServicesClient.startProcess("ofeclipse_1.0.0-SNAPSHOT",
+        processInstanceId = processServicesClient.startProcess("ofeclipse_1.0.0-SNAPSHOT",
                 "com.mybpmn", variables);
-*/
+
         /***Obtenemos la instancia*/
         processInstance = queryServicesClient.findProcessInstanceById(processInstanceId, true);
         processServicesClient.signalProcessInstance("ofeclipse_1.0.0-SNAPSHOT",processInstance.getId(),"reactsign", variables);
