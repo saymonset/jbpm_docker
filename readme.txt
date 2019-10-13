@@ -3,8 +3,12 @@
 #Para  ver todas las configuraciones
 git branch
 
+
 #para escojer un branch
-git checkout nameBranch
+for example
+
+    git checkout jbpm_7_18_configuration
+
 
 
 #branchs
