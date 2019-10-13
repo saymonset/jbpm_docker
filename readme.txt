@@ -4,11 +4,17 @@
 
  
 1 -) Descompilar jbpm-installer-full-7.16.0.Final
+    
 
 2 -) cd jbpm-installer
 
 
 2.1 -) beyondcompare entre el  de git hub y el  instalador y copiar los archivos
+
+        	git clone https://github.com/saymonset/jbpm_how_installer_
+ 
+             git checkout jbpm_7_18_configuration
+
 
 3 -) ant install.demo.noeclipse
 

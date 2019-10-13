@@ -68,7 +68,7 @@
     <class>org.jbpm.casemgmt.impl.audit.CaseRoleAssignmentLog</class>
 
     <properties>
-      <property name="hibernate.dialect" value="org.hibernate.dialect.SQLServer2008Dialect" />
+      <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect" />
 
       <property name="hibernate.max_fetch_depth" value="3" />
       <property name="hibernate.hbm2ddl.auto" value="update" />

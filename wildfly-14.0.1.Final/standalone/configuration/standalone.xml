@@ -152,30 +152,28 @@
                         <password>sa</password>
                     </security>
                 </datasource>
-              <xa-datasource jndi-name="java:jboss/datasources/jbpmDS" pool-name="JbpmDS" enabled="true">
-		    <xa-datasource-property name="URL">jdbc:mysql://172.16.238.11:3306/jbpm?characterEncoding=UTF-8</xa-datasource-property>
-		    <driver>mysql</driver>
-                    <security>
-		        <user-name>root</user-name>
-		        <password>123456</password>
-                    </security>
-                    <validation>
-		        <validate-on-match>false</validate-on-match>
-		        <background-validation>false</background-validation>
-                    </validation>
-		    <statement>
-		        <share-prepared-statements>false</share-prepared-statements>
-		    </statement>
-                </xa-datasource>
+              <xa-datasource jndi-name="java:jboss/datasources/jbpmDS" pool-name="jbpmExampleDS" enabled="true">
+            <xa-datasource-property name="URL">jdbc:mysql://172.16.238.11:3306/jbpm?characterEncoding=UTF-8</xa-datasource-property>
+            <driver>com.mysql</driver>
+            <security>
+                <user-name>root</user-name>
+                <password>123456</password>
+            </security>
+            <validation>
+                <validate-on-match>false</validate-on-match>
+                <background-validation>false</background-validation>
+            </validation>
+            <statement>
+                <share-prepared-statements>false</share-prepared-statements>
+            </statement>
+             </xa-datasource>
                 <drivers>
                     <driver name="h2" module="com.h2database.h2">
                         <xa-datasource-class>org.h2.jdbcx.JdbcDataSource</xa-datasource-class>
                     </driver>
-		   <driver name="mysql" module="com.mysql">
-			 <driver-class>com.mysql.cj.jdbc.Driver</driver-class>
-			 <xa-datasource-class>com.mysql.cj.jdbc.MysqlXADataSource</xa-datasource-class>
-                    </driver>
-
+		           <driver name="com.mysql" module="com.mysql">  
+                        <xa-datasource-class>com.mysql.jdbc.jdbc2.optional.MysqlXADataSource</xa-datasource-class>  
+                    </driver>  
                 </drivers>
             </datasources>
         </subsystem>
