@@ -1,0 +1,6 @@
+# pack-refs with: peeled
+27ec022e1075aa7a3e54f0e64c8a6777aa8e1ee0 refs/heads/locks
+e94b50afebf0bbda4ad738c2b77df23d06876ae9 refs/heads/master
+495b748ecaca8649111f3b1a3637d7d11e791c31 refs/heads/servers
+922394f918b94c416e0e0e09a8ae1e7864f6dff3 refs/heads/service-tasks
+e10d0fc0562c6745aa53239d3d0871aef1de902d refs/heads/simon-uf-user

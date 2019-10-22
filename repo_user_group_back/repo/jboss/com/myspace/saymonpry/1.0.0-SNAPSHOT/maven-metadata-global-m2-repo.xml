@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.myspace</groupId>
+  <artifactId>saymonpry</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191010.200842</timestamp>
+      <buildNumber>15</buildNumber>
+    </snapshot>
+    <lastUpdated>20191010200842</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20191010.200842-15</value>
+        <updated>20191010200842</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20191010.200842-15</value>
+        <updated>20191010200842</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

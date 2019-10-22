@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+<link type="text/css" rel="stylesheet" href="Redirect.css">
+</head>
+<body>
+<center>
+<table class="dockPanelIndex">
+	<tr>
+		<td width="850px" class="generalPanel">
+		
+			<!--Tabla 1 Logo Digitel-->
+			
+			<table>
+				<tr><td><div class="logoDigitel"></div></td></tr>
+			</table>
+			
+			<!--Tabla 2 Mensaje de saldo insuficiente-->
+			
+			<table class="table2">
+				<tr>
+					<td ><div class="infoAmarillo"></div>
+					</td>
+				    <td style="vertical-align: middle;">
+						<div class="largeLetter darkLetter" id="msjTitulo1">ACTUALMENTE NO DISPONES DE SALDO SUFICIENTE PARA CONTINUAR NAVEGANDO.</div>
+						<div id="msjTitulo2">TE INVITAMOS A RECARGAR A TRAV&Eacute;S DE LAS SIGUIENTES OPCIONES:</div>
+				   </td>
+				</tr>
+			</table>
+			
+			<!--Tabla 3 opciones de Recarga-->	
+		<!--	<table class="table3" id="recargaPrepago" style="width: 850px;">
+				<tr>
+    					<td  id="messageContainerPrepaid" height="47px" width="100%" class="paddingLeft paddingRight" > 
+						<table class="table3" width="100%" >	
+							<tr>
+								<td width="135px" align="left" class="bigLetter darkLetter" id="messageContainerPrepaidText" style="padding-left:13px;"></td>
+															
+								<td width="0px" class="sombraCintillo"></td>
+								<td>
+									<div class="recargaTarjetasPrepago"></div>
+								</td>
+								<td class="mediumLetterleft">
+									<div>Con Tarjetas Pre-Pago
+										<a href="https://servicios.digitel.com.ve/RecargasWeb/LoginPage.jsp" target="_blank"><br>
+										<font class="linkLetter darkLetter">aqu&iacute;</font>
+										</a>
+									</div>
+								</td>
+								<td>
+									<div class="recargaTDC"></div>
+								</td>
+								<td class="mediumLetterleft">
+									<div> Con Tarjetas de Cr&eacute;dito en <br>
+										<a href="https://412enlinea.digitel.com.ve/Digitel412EnLinea" target="_blank">
+											<font class="linkLetter darkLetter">Autoservicio 412 en L&iacute;nea</font>
+										</a>
+									</div>
+								</td>
+								<td>
+									<div class="llamadas"></div>
+								</td>
+								<td class="mediumLetterleft">
+									<div>Llamando al: <br>
+										<font class="linkLetter darkLetter">128</font> &oacute; <font class="linkLetter darkLetter">0412-9128128</font> para Internet
+									</div>	
+								</td>
+							</tr>
+						</table>
+						</td>
+				    </tr> 
+			</table>   --> 
+			<table class="table3" id="recargaPrepago" style="width: 850px;">	
+				<tr>
+					<td>
+						<table width="150px">
+						<td width="135px" align="left" class="bigLetter darkLetter">RECARGA Y <br>CONÉCTATE</td>
+						<td class="sombraCintillo"></td>
+						</table>
+					</td>
+					<td><div class="recargaTarjetasPrepago"></div></td>
+					<td class="mediumLetterleft" width="100px"><div id="op1Tarjeta">Con Tarjetas Pre-Pago <a href="https://servicios.digitel.com.ve/RecargasWeb/LoginPage.jsp" target="_blank"><font class="linkLetter darkLetter">aqu&iacute;</font></a></div></td>
+					<td ><div class="recargaTDC"></div></td>
+				    <td class="mediumLetterleft">
+				    		<div id="op2TDC">Con Tarjetas de Cr&eacute;dito en
+				    			<br>
+				    				<a href="https://412enlinea.digitel.com.ve/Digitel412EnLinea" target="_blank"><font class="linkLetter darkLetter">Autoservicio 412 en L&iacute;nea</font>
+				    				</a>
+				    			</br>
+				    		</div>
+				    </td>
+                    <td ><div class="llamadas"></div></td>
+					<td class="mediumLetterleft"><div id="op3IVR">Llamando al: <br><font class="linkLetter darkLetter">127 </font>para M&oacute;vil
+					    <br><font class="linkLetter darkLetter">128</font> &oacute; <font class="linkLetter darkLetter">0412-9128128</font> para Internet y otras l&iacute;neas</br></div></td>
+                </tr>
+			</table> 
+			
+			<!--Tabla 4 enlace a Redirect-->
+			<br><br>
+			<table  id="redirect" class="table7" style="width: 850px;">	
+				<tr>
+				    <td width="150px" align="left" class="bigLetter darkLetter">INFORMACI&Oacute;N DE TU L&Iacute;NEA</td>
+					<td width="15px" class="sombraCintillo"></td>
+					<td><div class="clienteBAM"></div></td>
+					<td class="mediumLetterleft" width="100px"><div id="op1Tarjeta">Cliente Internet <a href="http://consultabam.digitel.com.ve/ConsultaBam"><font class="linkLetter darkLetter">aqu&iacute;</font></a></div></td>
+					<td><div class="clienteMovil"></div></td>
+				    <td class="mediumLetterleft">
+				    		<div id="op2TDC">Cliente M&Oacute;VIL
+				    			<br>
+				    				<a href="https://412enlinea.digitel.com.ve/Digitel412EnLinea" target="_blank"><font class="linkLetter darkLetter">Autoservicio 412 en L&iacute;nea</font>
+				    				</a>
+				    			</br>
+				    		</div>
+				    </td>
+					<td width="250px"></td>
+                   <!-- <td class="llamadas"></td>
+					<td class="mediumLetterjustify"><div id="op3IVR">Llamando a: <br><font class="linkLetter darkLetter">127 </font>para móvil
+					    <br><font class="linkLetter darkLetter">128</font> o <font class="linkLetter darkLetter">0412-9128128</font></br></div></td>-->
+                </tr>
+			</table>
+			
+			
+			
+			<!--<table class="table4 largeLetter">
+				<tr>
+				    <td>
+				   		<div id="footer">
+				   		
+							<div id="footerOp1">Si eres <font class="darkLetter">Cliente Bam</font> para más información haz clic <a href="http://10.192.13.41:9201/Redirect/Redirect.html" target="_blank"><font class="linkLetter darkLetter">aquí</font></a>
+							</div>
+							
+							<div id="footerOp2">Si eres <font class="darkLetter">Cliente Móvil</font>  ingresa en www.digitel.com.ve 
+								<a href="https://412enlinea.digitel.com.ve/Digitel412EnLinea" target="_blank">
+									<font class="linkLetter darkLetter">Autoservicios 412 En Línea</font>
+								</a>
+							</div>
+							
+					    </div>
+					</td>
+				</tr>
+			</table>-->
+		</td>
+	</tr>
+</table>
+</center>
+
+			<!--Tabla 5 Copyright-->
+
+<table class="table5">
+	<tr>
+		<td class="smallLetter">
+			<div>Aviso Legal | Digitel&#169;2000. RIF: J-30468971-3. Todos los derechos reservados.</div>
+		</td>
+	</tr>
+</table>
+</body>
+</html>
