@@ -36,9 +36,9 @@ import org.kie.api.logger.KieRuntimeLogger;
  * Created by simon on 08/09/19.
  */
 @RestController
-@RequestMapping("/task")
+@RequestMapping("/tasktest")
 @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.GET})
-public class TaskExecute {
+public class QueryExecuteExample {
     @Inject
     private KieServicesClient kieServicesClient;
     @Inject

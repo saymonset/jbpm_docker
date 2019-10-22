@@ -17,6 +17,7 @@ import org.kie.server.client.UserTaskServicesClient;
 import org.kie.server.api.model.instance.ProcessInstance;
 import org.kie.server.api.model.KieContainerResource;
 import org.kie.server.api.model.ReleaseId;
+import org.kie.server.controller.client.KieServerControllerClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -37,9 +38,11 @@ public class Jbpm {
     @Value("${jbpm.password}")
     private String password;
     // REST API base URL, credentials, and marshalling format
+
     private     String URL =  "http://localhost:8180/kie-server/services/rest/server";
-    private     String USER = "salaboy";
-    private     String PASSWORD = "salaboy";
+    //private     String URL =  "http://localhost:8080/kie-server/services/rest/server";
+    private     String USER = "wbadmin";
+    private     String PASSWORD = "wbadmin";
 
 
     private     MarshallingFormat FORMAT = MarshallingFormat.JSON;
@@ -48,6 +51,8 @@ public class Jbpm {
 
     // KIE client for common operations
     private   KieServicesClient kieServicesClient;
+
+
 
     // Rules client
     private   RuleServicesClient ruleClient;
@@ -89,6 +94,7 @@ public class Jbpm {
         extraClasses.add(com.Person.class);
         extraClasses.add(com.ecological.NpsRresultDTO.class);
         extraClasses.add(com.ecological.Solution2DTO.class);
+     //   extraClasses.add(com.Mama.class);
 
         conf.addJaxbClasses(extraClasses);
         conf.setMarshallingFormat(MarshallingFormat.JAXB);

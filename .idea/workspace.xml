@@ -2,8 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c141d0aa-6632-4a68-bb54-b621416d0096" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientjbpm/workbench_bpmn/npsurvey" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/83e44fc2-d977-4174-a3e7-75520a217eaa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/9d2a8fa2-665e-4fcb-bfda-c067cc8e2db6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/chapter02-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/META-INF/defaultKieBase/kbase.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/META-INF/kie-deployment-descriptor.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/META-INF/kmodule.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/META-INF/kmodule.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/WorkDefinitions.wid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/.chapter02" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/CustomMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/HelloService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/Looping.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/WorkDefinitions.wid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/chapter02.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/com.sample.evaluation.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/delete.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/example.processId.processId.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/expand.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/fromServer.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/myExternalInteractionsProcess.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/proceso1.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/proceso2.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/quickstarts.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/classes/uft/chapter02/signalProcess.bpmn2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter02/target/test-classes/uft/.chapter02" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm/src/main/resources/com/sample/sample.bpmn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm/src/test/java/com/example/ProcessTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clientjbpm/src/test/java/com/example/demo/DemoApplicationTests.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/ecological/.config/config.git/objects/pack/pack-8b5a223e1a1679332ab84591393c0d1ba547fe8d.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/ecological/.config/config.git/objects/pack/pack-8b5a223e1a1679332ab84591393c0d1ba547fe8d.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/ecological/.config/config.git/objects/pack/pack-8b5a223e1a1679332ab84591393c0d1ba547fe8d.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/pack/pack-267a245f2216229d3548e89de999b578fc7deb15.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/pack/pack-267a245f2216229d3548e89de999b578fc7deb15.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/objects/pack/pack-267a245f2216229d3548e89de999b578fc7deb15.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/pack/pack-c61b538a97e2312e242c0e2479d176c8f717667f.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/pack/pack-c61b538a97e2312e242c0e2479d176c8f717667f.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/objects/pack/pack-c61b538a97e2312e242c0e2479d176c8f717667f.pack" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-ad8fb0fae3cf2eac324580dce10130a4625dcb0e.bitmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-ad8fb0fae3cf2eac324580dce10130a4625dcb0e.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/objects/pack/pack-ad8fb0fae3cf2eac324580dce10130a4625dcb0e.pack" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/workbench_bpmn/npsurvey" afterPath="$PROJECT_DIR$/clientjbpm/workbench_bpmn/npsurvey" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/npsurvey-1.0.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/npsurvey-1.0.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-6baaf60143c9f9dffc68daee08ddc80c1b6f4e48.bitmap" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-6baaf60143c9f9dffc68daee08ddc80c1b6f4e48.bitmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-6baaf60143c9f9dffc68daee08ddc80c1b6f4e48.idx" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-6baaf60143c9f9dffc68daee08ddc80c1b6f4e48.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-6baaf60143c9f9dffc68daee08ddc80c1b6f4e48.pack" afterPath="$PROJECT_DIR$/repo/wb_git/MySpace/.config/config.git/objects/pack/pack-6baaf60143c9f9dffc68daee08ddc80c1b6f4e48.pack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/pack/pack-2ecfdeea3eab4d8d6302ef9160d866fa3ddae0c5.bitmap" afterPath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/pack/pack-2ecfdeea3eab4d8d6302ef9160d866fa3ddae0c5.bitmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/pack/pack-2ecfdeea3eab4d8d6302ef9160d866fa3ddae0c5.idx" afterPath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/pack/pack-2ecfdeea3eab4d8d6302ef9160d866fa3ddae0c5.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/pack/pack-2ecfdeea3eab4d8d6302ef9160d866fa3ddae0c5.pack" afterPath="$PROJECT_DIR$/repo/wb_git/dashbuilder/datasets.git/objects/pack/pack-2ecfdeea3eab4d8d6302ef9160d866fa3ddae0c5.pack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/31fb2974-733a-422e-99fe-46a545568154.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/31fb2974-733a-422e-99fe-46a545568154.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/build.gradle" afterPath="$PROJECT_DIR$/clientjbpm/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/classes/production/clientjbpm/application.properties" afterPath="$PROJECT_DIR$/clientjbpm/classes/production/clientjbpm/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/config/Jbpm.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/config/Jbpm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/SignalRef.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/SignalRef.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/TaskExecute.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/TaskExecute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/Test.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/rest/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/swagger/TestCallSwagger.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/swagger/TestCallSwagger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/swagger/jbpm/http/NpsSurveyBPMN.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/swagger/jbpm/http/NpsSurveyBPMN.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/java/com/swagger/jbpm/http/TestCall.java" afterPath="$PROJECT_DIR$/clientjbpm/src/main/java/com/swagger/jbpm/http/TestCall.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientjbpm/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/clientjbpm/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jbpm-full-mysql.yml" afterPath="$PROJECT_DIR$/jbpm-full-mysql.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/_remote.repositories" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/_remote.repositories" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml.sha1" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/maven-metadata-global-m2-repo.xml.sha1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/maven-metadata-local.xml" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/maven-metadata-local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/resolver-status.properties" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/1.0.0-SNAPSHOT/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/maven-metadata-global-m2-repo.xml" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/maven-metadata-global-m2-repo.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/maven-metadata-global-m2-repo.xml.sha1" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/maven-metadata-global-m2-repo.xml.sha1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/maven-metadata-local.xml" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/maven-metadata-local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/resolver-status.properties" afterPath="$PROJECT_DIR$/repo/jboss/com/ecological/npsurvey/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/ecological/.config/config.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/ecological/.config/config.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/metadata.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/preferences.git/packed-refs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" afterPath="$PROJECT_DIR$/repo/wb_git/system/system.git/packed-refs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +97,30 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="jbpm@172.16.238.11" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="jbpm@172.16.238.11" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="jbpm" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
@@ -27,8 +128,18 @@
       <file leaf-file-name="jbpm-full-mysql.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            <state relative-caret-position="270">
+              <caret line="28" column="130" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="132" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/31fb2974-733a-422e-99fe-46a545568154/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,7 +233,7 @@
     <option name="x" value="81" />
     <option name="y" value="25" />
     <option name="width" value="1839" />
-    <option name="height" value="1175" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -140,7 +251,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,28 +266,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot-jbpm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jbpm_docker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../new/survey-all" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -664,11 +761,16 @@
       <workItem from="1570463587323" duration="2646000" />
       <workItem from="1570524752403" duration="9933000" />
       <workItem from="1570633702983" duration="9118000" />
+      <workItem from="1570959105255" duration="5828000" />
+      <workItem from="1571060840721" duration="601000" />
+      <workItem from="1571067120412" duration="7749000" />
+      <workItem from="1571147706811" duration="437000" />
+      <workItem from="1571757151632" duration="3962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140652000" />
+    <option name="totallyTimeSpent" value="163923000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -680,7 +782,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="25" width="1839" height="1175" extended-state="6" />
+    <frame x="81" y="25" width="1839" height="1055" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973504" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -693,10 +795,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46712464" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4682981" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32794198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34746236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34188512" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -732,467 +834,48 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Reassignment">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ProcessInstanceLog">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ProcessInstanceInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_Stakeholders">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_Recipients">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_PotOwners">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_ExclOwners">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.OrganizationalEntity">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_BAs">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification_Recipients">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification_email_header">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification_BAs">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.NodeInstanceLog">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.I18NText">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ExecutionErrorInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.EventTypes">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Escalation">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ErrorInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.email_header">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.DeploymentStore">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Delegation_delegates">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Deadline">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CorrelationPropertyInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CorrelationKeyInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ContextMappingInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Content">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseRoleAssignmentLog">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseIdInfo">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseFileDataLog">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.BooleanExpression">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.BAMTaskSummary">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.AuditTaskImpl">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Attachment">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.QueryDefinitionStore">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.VariableInstanceLog">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Task">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.TaskVariableImpl">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Reassignment" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ProcessInstanceLog" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ProcessInstanceInfo" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_Stakeholders" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_Recipients" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_PotOwners" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_ExclOwners" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.OrganizationalEntity" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.PeopleAssignments_BAs" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification_Recipients" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification_email_header" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification_BAs" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Notification" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.NodeInstanceLog" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.I18NText" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ExecutionErrorInfo" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.EventTypes" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Escalation" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ErrorInfo" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.email_header" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.DeploymentStore" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Delegation_delegates" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Deadline" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CorrelationPropertyInfo" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CorrelationKeyInfo" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.ContextMappingInfo" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Content" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseRoleAssignmentLog" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseIdInfo" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.CaseFileDataLog" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.BooleanExpression" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.BAMTaskSummary" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.AuditTaskImpl" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Attachment" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.QueryDefinitionStore" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.VariableInstanceLog" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.Task" />
+    <entry file="dbDummy://dbtable:/37c5540d/83e44fc2-d977-4174-a3e7-75520a217eaa/jbpm.TaskVariableImpl" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9d2a8fa2-665e-4fcb-bfda-c067cc8e2db6/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,10 +883,13 @@
     <entry file="file://$PROJECT_DIR$/repo/jboss/com/nps/npssurveybpmn/maven-metadata-global-m2-repo.xml.sha1" />
     <entry file="file://$PROJECT_DIR$/repo/jboss/com/nps/npssurveybpmn/maven-metadata-local.xml" />
     <entry file="file://$PROJECT_DIR$/repo/jboss/com/nps/npssurveybpmn/resolver-status.properties" />
-    <entry file="file://$PROJECT_DIR$/readme.txt">
+    <entry file="file://$PROJECT_DIR$/jbpm-full-mysql-extra.yml" />
+    <entry file="dbDummy://dbtable:/37c5540d/9d2a8fa2-665e-4fcb-bfda-c067cc8e2db6/jbpm.CaseFileDataLog" />
+    <entry file="dbDummy://dbtable:/37c5540d/9d2a8fa2-665e-4fcb-bfda-c067cc8e2db6/jbpm.Task" />
+    <entry file="file://$PROJECT_DIR$/mysql.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="72" column="56" lean-forward="false" selection-start-line="72" selection-start-column="56" selection-end-line="72" selection-end-column="56" />
+        <state relative-caret-position="18">
+          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -1216,37 +902,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jbpm-full-mysql-extra.yml">
+    <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="1296">
+          <caret line="72" column="56" lean-forward="false" selection-start-line="72" selection-start-column="56" selection-end-line="72" selection-end-column="56" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/9d2a8fa2-665e-4fcb-bfda-c067cc8e2db6/jbpm.CaseFileDataLog">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/37c5540d/9d2a8fa2-665e-4fcb-bfda-c067cc8e2db6/jbpm.Task">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1258,18 +918,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jbpm-full-mysql.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        <state relative-caret-position="270">
+          <caret line="28" column="130" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="132" />
           <folding />
         </state>
       </provider>

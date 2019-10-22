@@ -1,5 +1,6 @@
 package com.rest;
 
+import org.kie.internal.task.api.UserInfo;
 import org.kie.server.api.model.KieContainerResource;
 import org.kie.server.api.model.ServiceResponse;
 import org.kie.server.api.model.instance.ProcessInstance;
@@ -28,6 +29,9 @@ public class Test {
     private KieServicesClient kieServicesClient;
     @Inject
     private ProcessServicesClient processServicesClient;
+
+
+    public Test(){}
 
     @RequestMapping(value = "/all",method = RequestMethod.GET)
     public ResponseEntity<?> procesar() {

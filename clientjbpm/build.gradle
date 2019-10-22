@@ -16,13 +16,14 @@ repositories {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-
+	compile('org.springframework.boot:spring-boot-starter-jdbc')
+	compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.14'
 
 	compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.9'
 	compile group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.9.9'
 	compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.9.9'
 
-	implementation 'com.myspace:procesos2:1.0.0-SNAPSHOT'
+
 // https://mvnrepository.com/artifact/org.codehaus.btm/btm
 	testCompile group: 'org.codehaus.btm', name: 'btm', version: '2.0.1'
 // https://mvnrepository.com/artifact/org.apache.httpcomponents/httpmime
@@ -39,6 +40,14 @@ dependencies {
 	compile 'org.kie.remote:kie-remote-client:7.0.0.Beta2'
 	// https://mvnrepository.com/artifact/org.jbpm/jbpm-test
 	testCompile group: 'org.jbpm', name: 'jbpm-test', version: '7.25.0.Final'
+// https://mvnrepository.com/artifact/org.kie.server/kie-server-controller-client
+	compile group: 'org.kie.server', name: 'kie-server-controller-client', version: '7.25.0.Final'
+// https://mvnrepository.com/artifact/org.jboss.resteasy/resteasy-jaxrs
+	compile group: 'org.jboss.resteasy', name: 'resteasy-jaxrs', version: '2.3.0.GA'
+// https://mvnrepository.com/artifact/io.undertow/undertow-core
+	compile group: 'io.undertow', name: 'undertow-core', version: '1.0.0.Beta12'
+// https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
+	testCompile group: 'ch.qos.logback', name: 'logback-classic', version: '0.9.26'
 
 
 	compile group: 'joda-time', name: 'joda-time', version: '2.3'
@@ -57,5 +66,8 @@ dependencies {
 	compile group: 'com.alibaba', name: 'fastjson', version: '1.1.25'
 
 
+	/**Agregamos los proyectos hechos en workbench*/
+	implementation 'com.myspace:procesos2:1.0.0-SNAPSHOT'
+	implementation 'com.myspace:test:1.0.0-SNAPSHOT'
 //
 }

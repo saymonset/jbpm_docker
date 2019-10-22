@@ -1,6 +1,8 @@
 #Start
 #run  mysql first
 #docker-compose -f mysql.yml up
+#docker-compose -f mysql.yml up --build -d
+
 #docker-compose -f jbpm-full-mysql.yml up --build -d
 #docker-compose -f jbpm-full-mysql.yml down
 #Bajar mysql
@@ -22,6 +24,9 @@
 #- ./repo/wb_git:/opt/jboss/wildfly/bin/.niogit:Z
 #Fix ERROR: Pool overlaps with other one on this address space
 #docker network ls -q | xargs docker network rm
+#Subir file to DigitalOcean from my local
+#rsync -avz /opt/workspace_angular/main/survey-back-front-cli-together/docker-compose.yml root@165.227.200.70:/root/ecologicalpaper
+#rsync -avz /opt/workspace_angular/jbpm/jbpm-DOCKER/github/jbpm_docker/jbpm-full-mysql.yml root@165.227.200.70:/root/ecologicalpaper
 version: '3'
 services:
   jbpm:
@@ -47,7 +52,7 @@ services:
 networks:
   default:
     external:
-       #name: jbpm_docker_app_net
-       name: survey-all_app_net
+       name: jbpm_docker_app_net
+       #name: survey-all_app_net
 
 

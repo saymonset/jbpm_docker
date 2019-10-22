@@ -53,7 +53,7 @@ public class NpsSurveyBPMN {
     private ObjectMapper mapper;
 
 
-    /**Instanciamos el jbpm NPS*/
+    /**Instanciamos el jbpm NPS.. parametros  vienen del swagger*/
     public NpsRresultDTO NpsSurveyJBPM (String containerId, String idDefinitionJbpm, String userTask, int point )
             throws Exception {
 
