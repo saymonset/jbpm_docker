@@ -1,34 +1,20 @@
+1-)   Bajar el zip sencillo ( Download jBPM 7.28.0.Final server (single zip) distribution). Es el mas estable..
 
-1)  Bajar el kjar
-     https://github.com/jesuino/hello-kie-server
+      https://www.jbpm.org/download/download.html
 
-      Compilarlo
-          mvn clean package install
+       Maciej Swiderski
+	I’d say go with server zip distribution as it is being used by jBPM team itself so most likely way more stable and described in the getting started guide.
 
-2-) Correr spring-boot
-    #https://www.baeldung.com/spring-boot-command-line-arguments
-    mvn spring-boot:run -Drun.arguments=org.mastertheboss.kieserver,hello-kie-server,1.0
+        
 
-3-)
+2-) Realizar el beyondcompare para configurar con mysql bd jbpm
 
-test
+3-) Instalar motor mysql con jbpm bd
 
-Estudiar varios servicios que se llaman en
+3-) En caso que el server missin en difinicon , borrar el archivo xml (org.kie.server.id) y correr de nuevo
 
-             http://localhost:8180/looping/deployService
+4-) En caso que falte memoria.. sacar la configuracion de expandir memoria de standalone.conf
+ y ponerla en /bin/standalone.conf del wildfly.. en este caso de 7.28.0.Final server
 
-
-          Otras urls :
-
-                http://localhost:8180/deployment/
-
-                http://localhost:8180/looping/deploy
-
-                http://localhost:8180/signalProcess/deploy
-
-               http://localhost:8180/evaluation/deploy
-
-
-    usuario = john
-    password = john1
-
+5-) Si quieres configurar con otras base de datos, como por ejemplo postgresql, ir a esta url
+https://jbpm.org/learn/gettingStarted.html
