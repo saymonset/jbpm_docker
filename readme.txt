@@ -5,9 +5,12 @@ git branch
 
 
 #para escojer un branch
+
 for example
 
-    git checkout jbpm_7_18_configuration
+    1-) git checkout install_jbpm_28_stable_zip 
+
+    2-) git pull
 
 
 
