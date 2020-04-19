@@ -1,4 +1,4 @@
-1-)   Bajar el zip sencillo ( Download jBPM 7.28.0.Final server (single zip) distribution). Es el mas estable..
+1-)   Bajar el zip sencillo ( Download jBPM 7.36.0.Final server (single zip) distribution). Es el mas estable..
 
       https://www.jbpm.org/download/download.html
 
@@ -13,7 +13,9 @@
 
 4-) Crear usuarios si hace falta y copiarlos manualmente a roles.properties, users.properties desde application-roles.properties y application-users.properties
 
+
        "Esto no me funciono: ./bin/add-user.sh -up users.properties -gp roles.properties -sc standalone/configuration -u sami -p sami -g admin,kie-server,rest-all"
+        b) Application User (application-users.properties) Escojer opcion para que aparescan en application-roles.properties y application-users.properties
 
 5-) Entrar
          http://localhost:8080/business-central/kie-wb.jsp?locale=es
@@ -29,3 +31,5 @@ En  http://localhost:8080/business-central/kie-wb, chequear que todos los check 
 
 5-) Si quieres configurar con otras base de datos, como por ejemplo postgresql, ir a esta url
 https://jbpm.org/learn/gettingStarted.html
+
+6-) Si quieres ver ejemplo del nps, Regresa a la rama master. Hay esta carpeta examples
