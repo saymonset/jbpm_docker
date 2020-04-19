@@ -1,18 +1,23 @@
 #Varias configuraciones para jbpm
 
 #Para  ver todas las configuraciones
+
 git branch
 
 
 #para escojer un branch
 
-for example
+'Escojer esta rama (install_jbpm_28_stable_zip) que esta el tutorial para el ultimo jbpm 7.36.0'
 
     1-) git checkout install_jbpm_28_stable_zip 
+
+
 
     2-) git pull
 
 
+
+Aqui estan el resto de las ramas
 
 #branchs
 master
